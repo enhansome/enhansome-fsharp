@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-08-14T23:33:51Z",
+            "last_commit": "2026-08-15T21:03:09Z",
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4321
+            "stars": 4320
           }
         },
         {
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T23:57:14Z",
+            "last_commit": "2026-08-15T16:17:09Z",
             "owner": "dotnet",
             "repo": "orleans",
             "stars": 10832
@@ -349,7 +349,7 @@
             "last_commit": "2022-11-30T21:17:59Z",
             "owner": "crowded",
             "repo": "ply",
-            "stars": 247
+            "stars": 246
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-08-10T12:18:06Z",
             "owner": "fsprojects",
             "repo": "FSharpLint",
-            "stars": 326
+            "stars": 327
           }
         },
         {
@@ -1067,7 +1067,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-08-13T20:56:07Z",
+            "last_commit": "2026-08-15T22:26:44Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1352
@@ -1961,7 +1961,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-08-11T16:58:42Z",
+            "last_commit": "2026-08-15T09:58:53Z",
             "owner": "fsbolero",
             "repo": "Bolero",
             "stars": 1129
@@ -1978,7 +1978,7 @@
             "last_commit": "2024-07-31T12:04:48Z",
             "owner": "SaturnFramework",
             "repo": "Saturn",
-            "stars": 726
+            "stars": 725
           }
         },
         {
@@ -2107,7 +2107,7 @@
           "repo_info": {
             "archived": false,
             "language": "F#",
-            "last_commit": "2026-03-10T02:03:54Z",
+            "last_commit": "2026-08-15T15:14:19Z",
             "owner": "TheAngryByrd",
             "repo": "MiniScaffold",
             "stars": 272
@@ -2239,7 +2239,7 @@
             "last_commit": "2026-03-26T05:16:53Z",
             "owner": "quozd",
             "repo": "awesome-dotnet",
-            "stars": 21554
+            "stars": 21555
           }
         },
         {
@@ -2261,7 +2261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T00:26:50.412Z",
+    "last_updated": "2026-08-16T00:01:15.876Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
     "enhanced_repository": "enhansome/enhansome-fsharp",
