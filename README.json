@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-18T21:35:08Z",
+            "last_commit": "2026-08-19T12:22:41Z",
             "owner": "dotnet",
             "repo": "fsharp",
             "stars": 4320
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21203458,
             "language": "F#",
             "last_commit": "2026-08-13T12:06:38Z",
             "owner": "fsharp",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71413675,
             "language": null,
             "last_commit": "2025-02-27T11:39:14Z",
             "owner": "fsharp",
@@ -49,12 +52,7 @@
       "title": "Main Language-Related Repositories"
     },
     {
-      "description": "Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.",
-      "items": [],
-      "title": "F# Wrappers for Popular .NET Libraries"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-18T22:54:22Z",
+            "last_commit": "2026-08-19T05:59:49Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10834
+            "stars": 10836
           }
         },
         {
@@ -77,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15509440,
             "language": "C#",
             "last_commit": "2026-08-11T20:36:11Z",
             "owner": "akkadotnet",
             "repo": "akka.net",
-            "stars": 5076
+            "stars": 5077
           }
         },
         {
@@ -91,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77786107,
             "language": "C#",
             "last_commit": "2026-03-13T04:23:29Z",
             "owner": "asynkron",
             "repo": "protoactor-dotnet",
-            "stars": 1894
+            "stars": 1895
           }
         },
         {
@@ -105,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29269234,
             "language": "C#",
             "last_commit": "2025-12-15T21:25:35Z",
             "owner": "OrleansContrib",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36930472,
             "language": "F#",
             "last_commit": "2026-04-13T12:19:56Z",
             "owner": "Horusiath",
@@ -130,7 +133,7 @@
       "title": "Actor Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -139,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507569,
             "language": "F#",
             "last_commit": "2026-07-13T13:29:22Z",
             "owner": "fsprojects",
@@ -153,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220391610,
             "language": "F#",
             "last_commit": "2026-06-02T21:50:01Z",
             "owner": "OlegZee",
@@ -164,7 +169,7 @@
       "title": "Build Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -173,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206799148,
             "language": "F#",
             "last_commit": "2026-04-21T15:43:06Z",
             "owner": "CompositionalIT",
@@ -187,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274506480,
             "language": "F#",
             "last_commit": "2026-02-28T08:31:11Z",
             "owner": "UnoSD",
@@ -201,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153169064,
             "language": "F#",
             "last_commit": "2021-04-11T20:08:10Z",
             "owner": "mrbandler",
@@ -215,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207311557,
             "language": "CSS",
             "last_commit": "2023-01-06T15:36:30Z",
             "owner": "DanpowerGruppe",
@@ -226,7 +235,7 @@
       "title": "Cloud"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -235,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181503824,
             "language": "F#",
             "last_commit": "2026-07-24T12:45:55Z",
             "owner": "MoiraeSoftware",
@@ -249,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361887976,
             "language": "F#",
             "last_commit": "2024-04-08T13:02:00Z",
             "owner": "Zaid-Ajaj",
@@ -260,7 +271,7 @@
       "title": "Code Generation"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -269,8 +280,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49417923,
             "language": "F#",
-            "last_commit": "2026-08-14T19:45:44Z",
+            "last_commit": "2026-08-19T06:48:56Z",
             "owner": "fable-compiler",
             "repo": "Fable",
             "stars": 3145
@@ -283,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6663589,
             "language": "F#",
             "last_commit": "2017-02-14T14:25:32Z",
             "owner": "ZachBray",
@@ -297,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86670902,
             "language": "F#",
             "last_commit": "2019-05-16T08:43:48Z",
             "owner": "kjnilsson",
@@ -311,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197983736,
             "language": "F#",
             "last_commit": "2024-11-16T04:23:56Z",
             "owner": "calebh",
@@ -322,7 +337,7 @@
       "title": "Compilers for Other Platforms"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -331,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17032566,
             "language": "F#",
             "last_commit": "2022-02-24T01:59:05Z",
             "owner": "Hopac",
@@ -345,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167751943,
             "language": "F#",
             "last_commit": "2022-11-30T21:17:59Z",
             "owner": "crowded",
@@ -359,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71193230,
             "language": "F#",
             "last_commit": "2021-01-31T05:54:05Z",
             "owner": "rspeele",
@@ -373,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32942820,
             "language": "F#",
             "last_commit": "2026-08-04T18:22:48Z",
             "owner": "fsprojects",
@@ -387,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53183463,
             "language": "F#",
             "last_commit": "2022-11-12T13:57:38Z",
             "owner": "kekyo",
@@ -401,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 465911780,
             "language": "F#",
             "last_commit": "2026-05-15T13:03:45Z",
             "owner": "TheAngryByrd",
@@ -415,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146164766,
             "language": "F#",
             "last_commit": "2023-01-06T01:49:32Z",
             "owner": "dbrattli",
@@ -429,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 445239025,
             "language": "F#",
             "last_commit": "2026-08-18T18:58:40Z",
             "owner": "fs-fio",
@@ -443,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31206672,
             "language": "F#",
             "last_commit": "2024-01-12T23:08:05Z",
             "owner": "fsprojects",
@@ -454,7 +478,7 @@
       "title": "Concurrent, Asynchronous, and Parallel Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -463,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8786949,
             "language": "F#",
             "last_commit": "2026-08-17T12:16:15Z",
             "owner": "fsprojects",
@@ -477,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115850069,
             "language": "F#",
             "last_commit": "2023-10-24T18:00:25Z",
             "owner": "demystifyfp",
@@ -491,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46389514,
             "language": "F#",
             "last_commit": "2020-01-15T15:18:51Z",
             "owner": "docopt",
@@ -505,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 423206443,
             "language": "F#",
             "last_commit": "2022-08-16T19:49:28Z",
             "owner": "Meyhem",
@@ -516,7 +544,7 @@
       "title": "Configuration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -525,6 +553,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235303,
             "language": "C#",
             "last_commit": "2025-03-03T21:39:46Z",
             "owner": "mathnet",
@@ -539,6 +568,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165457814,
             "language": "Python",
             "last_commit": "2024-08-03T17:30:36Z",
             "owner": "BayesWitnesses",
@@ -553,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12904102,
             "language": "F#",
             "last_commit": "2026-08-02T05:29:54Z",
             "owner": "fslaborg",
@@ -567,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23434755,
             "language": "F#",
             "last_commit": "2024-04-15T20:25:41Z",
             "owner": "DiffSharp",
@@ -581,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14906267,
             "language": "Jupyter Notebook",
             "last_commit": "2022-03-17T09:11:27Z",
             "owner": "fsprojects",
@@ -595,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18252667,
             "language": "F#",
             "last_commit": "2024-01-15T18:54:49Z",
             "owner": "mathnet",
@@ -609,6 +643,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64141324,
             "language": "F#",
             "last_commit": "2026-02-20T14:58:55Z",
             "owner": "fsprojects",
@@ -623,6 +658,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 223785900,
             "language": null,
             "last_commit": "2021-09-23T20:55:47Z",
             "owner": "mrdimosthenis",
@@ -637,6 +673,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320379771,
             "language": "F#",
             "last_commit": "2024-04-19T07:45:04Z",
             "owner": "fslaborg",
@@ -648,130 +685,140 @@
       "title": "Data Science"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fantomas",
+              "description": "F# code formatter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7979677,
+                "language": "F#",
+                "last_commit": "2026-08-19T11:32:31Z",
+                "owner": "fsprojects",
+                "repo": "fantomas",
+                "stars": 832
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VimSpeak",
+              "description": "A tool to control Vim with your voice using speech recognition.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9863254,
+                "language": "F#",
+                "last_commit": "2020-09-09T20:17:17Z",
+                "owner": "AshleyF",
+                "repo": "VimSpeak",
+                "stars": 416
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FSharpLint",
+              "description": "F# code linter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15882825,
+                "language": "F#",
+                "last_commit": "2026-08-10T12:18:06Z",
+                "owner": "fsprojects",
+                "repo": "FSharpLint",
+                "stars": 328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emacs F# mode",
+              "description": "F# support in Emacs (including Intellisense and Interactive mode).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35509388,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-04-02T19:04:28Z",
+                "owner": "fsharp",
+                "repo": "emacs-fsharp-mode",
+                "stars": 214
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FSharpFar",
+              "description": "F# support for Far Manager.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32240029,
+                "language": "C#",
+                "last_commit": "2026-04-06T06:58:53Z",
+                "owner": "nightroman",
+                "repo": "FarNet",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vim F#",
+              "description": "F# support for Vim.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35509547,
+                "language": "Vim script",
+                "last_commit": "2020-11-22T12:29:33Z",
+                "owner": "fsharp",
+                "repo": "zarchive-vim-fsharp",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neofsharp.vim",
+              "description": "Basic F# support for (Neo)Vim.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 296999934,
+                "language": "Vim Script",
+                "last_commit": "2024-04-06T20:33:28Z",
+                "owner": "adelarsq",
+                "repo": "neofsharp.vim",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fsharp-notebook",
+              "description": "Data science notebook for F# Interactive.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246633941,
+                "language": "HTML",
+                "last_commit": "2023-03-03T14:16:56Z",
+                "owner": "pablofrommars",
+                "repo": "fsharp-notebook",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor Plugins"
+        }
+      ],
       "title": "Development Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Fantomas",
-          "description": "F# code formatter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "F#",
-            "last_commit": "2026-08-13T02:12:49Z",
-            "owner": "fsprojects",
-            "repo": "fantomas",
-            "stars": 832
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VimSpeak",
-          "description": "A tool to control Vim with your voice using speech recognition.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "F#",
-            "last_commit": "2020-09-09T20:17:17Z",
-            "owner": "AshleyF",
-            "repo": "VimSpeak",
-            "stars": 416
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FSharpLint",
-          "description": "F# code linter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "F#",
-            "last_commit": "2026-08-10T12:18:06Z",
-            "owner": "fsprojects",
-            "repo": "FSharpLint",
-            "stars": 328
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Emacs F# mode",
-          "description": "F# support in Emacs (including Intellisense and Interactive mode).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Emacs Lisp",
-            "last_commit": "2026-04-02T19:04:28Z",
-            "owner": "fsharp",
-            "repo": "emacs-fsharp-mode",
-            "stars": 214
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FSharpFar",
-          "description": "F# support for Far Manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-04-06T06:58:53Z",
-            "owner": "nightroman",
-            "repo": "FarNet",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vim F#",
-          "description": "F# support for Vim.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vim script",
-            "last_commit": "2020-11-22T12:29:33Z",
-            "owner": "fsharp",
-            "repo": "zarchive-vim-fsharp",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neofsharp.vim",
-          "description": "Basic F# support for (Neo)Vim.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vim Script",
-            "last_commit": "2024-04-06T20:33:28Z",
-            "owner": "adelarsq",
-            "repo": "neofsharp.vim",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fsharp-notebook",
-          "description": "Data science notebook for F# Interactive.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2023-03-03T14:16:56Z",
-            "owner": "pablofrommars",
-            "repo": "fsharp-notebook",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Editor Plugins"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -780,6 +827,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13643523,
             "language": "F#",
             "last_commit": "2026-08-12T08:52:07Z",
             "owner": "fsprojects",
@@ -794,6 +842,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 977333,
             "language": "F#",
             "last_commit": "2025-12-20T13:22:24Z",
             "owner": "fsprojects",
@@ -808,6 +857,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141843316,
             "language": "F#",
             "last_commit": "2026-07-22T19:45:15Z",
             "owner": "demystifyfp",
@@ -822,6 +872,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61918361,
             "language": "F#",
             "last_commit": "2024-06-11T20:01:41Z",
             "owner": "microsoft",
@@ -836,6 +887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117427853,
             "language": "F#",
             "last_commit": "2026-02-28T03:53:31Z",
             "owner": "Zaid-Ajaj",
@@ -850,6 +902,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63956982,
             "language": "F#",
             "last_commit": "2025-02-07T13:44:31Z",
             "owner": "eiriktsarpalis",
@@ -864,6 +917,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357745680,
             "language": "F#",
             "last_commit": "2026-06-13T19:16:59Z",
             "owner": "JordanMarr",
@@ -878,6 +932,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 541595576,
             "language": "F#",
             "last_commit": "2026-06-12T19:19:44Z",
             "owner": "CaptnCodr",
@@ -892,6 +947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251025716,
             "language": "F#",
             "last_commit": "2024-12-02T12:39:29Z",
             "owner": "pimbrouwers",
@@ -906,6 +962,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31379993,
             "language": "F#",
             "last_commit": "2018-08-26T17:18:27Z",
             "owner": "fsprojects",
@@ -920,6 +977,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105487677,
             "language": "F#",
             "last_commit": "2022-12-08T15:21:43Z",
             "owner": "Zaid-Ajaj",
@@ -934,6 +992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22785093,
             "language": "F#",
             "last_commit": "2021-10-12T21:33:40Z",
             "owner": "xyncro",
@@ -948,6 +1007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8594689,
             "language": "F#",
             "last_commit": "2021-11-07T15:47:24Z",
             "owner": "jack-pappas",
@@ -962,6 +1022,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314656093,
             "language": "F#",
             "last_commit": "2024-05-16T17:34:54Z",
             "owner": "pimbrouwers",
@@ -976,6 +1037,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270936534,
             "language": "CSS",
             "last_commit": "2025-12-05T21:58:20Z",
             "owner": "tforkmann",
@@ -990,6 +1052,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246171358,
             "language": "F#",
             "last_commit": "2024-09-03T22:15:52Z",
             "owner": "aaronpowell",
@@ -1004,6 +1067,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168138110,
             "language": "F#",
             "last_commit": "2024-01-16T19:41:28Z",
             "owner": "Zaid-Ajaj",
@@ -1018,6 +1082,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229533537,
             "language": "F#",
             "last_commit": "2024-04-07T19:41:46Z",
             "owner": "fsprojects",
@@ -1032,6 +1097,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347914928,
             "language": "F#",
             "last_commit": "2025-12-19T14:03:58Z",
             "owner": "cmeeren",
@@ -1046,6 +1112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 315917988,
             "language": "F#",
             "last_commit": "2024-11-25T13:39:11Z",
             "owner": "veepee-oss",
@@ -1057,7 +1124,7 @@
       "title": "General Purpose Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1066,11 +1133,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-18T00:57:48Z",
+            "last_commit": "2026-08-19T09:09:04Z",
             "owner": "bryanedds",
             "repo": "Nu",
-            "stars": 1357
+            "stars": 1358
           }
         },
         {
@@ -1080,6 +1148,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 195127241,
             "language": "F#",
             "last_commit": "2024-12-24T16:38:58Z",
             "owner": "bcarruthers",
@@ -1091,7 +1160,7 @@
       "title": "Game Development"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1100,6 +1169,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120334619,
             "language": "F#",
             "last_commit": "2025-11-14T16:15:20Z",
             "owner": "fabulous-dev",
@@ -1114,6 +1184,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185862220,
             "language": "F#",
             "last_commit": "2026-07-28T20:12:23Z",
             "owner": "fsprojects",
@@ -1128,6 +1199,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94093878,
             "language": "F#",
             "last_commit": "2024-10-01T21:20:06Z",
             "owner": "elmish",
@@ -1142,6 +1214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251206182,
             "language": "C#",
             "last_commit": "2024-12-10T04:32:37Z",
             "owner": "kekyo",
@@ -1153,7 +1226,7 @@
       "title": "GUI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1162,6 +1235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145749918,
             "language": "F#",
             "last_commit": "2026-08-10T01:13:40Z",
             "owner": "fsprojects",
@@ -1176,6 +1250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13659273,
             "language": "HTML",
             "last_commit": "2023-08-02T07:52:16Z",
             "owner": "haf",
@@ -1190,6 +1265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202505943,
             "language": "F#",
             "last_commit": "2026-08-12T12:17:43Z",
             "owner": "cognitedata",
@@ -1201,7 +1277,7 @@
       "title": "HTTP Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1210,6 +1286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20382492,
             "language": "F#",
             "last_commit": "2023-05-18T19:29:50Z",
             "owner": "causiq",
@@ -1224,6 +1301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 170011765,
             "language": "F#",
             "last_commit": "2023-03-14T17:55:23Z",
             "owner": "TheAngryByrd",
@@ -1235,7 +1313,7 @@
       "title": "Logging"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1244,6 +1322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75967556,
             "language": "F#",
             "last_commit": "2023-11-13T01:57:14Z",
             "owner": "stephan-tolksdorf",
@@ -1258,6 +1337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5817266,
             "language": "F#",
             "last_commit": "2018-03-14T20:34:47Z",
             "owner": "corsis",
@@ -1272,6 +1352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93030887,
             "language": "F#",
             "last_commit": "2018-02-04T15:22:33Z",
             "owner": "haf",
@@ -1283,7 +1364,7 @@
       "title": "Parsing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1292,6 +1373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200410761,
             "language": "F#",
             "last_commit": "2026-06-02T21:36:58Z",
             "owner": "Tarmil",
@@ -1306,6 +1388,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7947365,
             "language": "F#",
             "last_commit": "2022-03-21T14:46:17Z",
             "owner": "mbraceproject",
@@ -1320,6 +1403,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109074198,
             "language": "F#",
             "last_commit": "2025-08-30T13:26:44Z",
             "owner": "fsprojects",
@@ -1334,6 +1418,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15757031,
             "language": "F#",
             "last_commit": "2023-10-22T16:32:33Z",
             "owner": "fsprojects",
@@ -1348,6 +1433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151720204,
             "language": "F#",
             "last_commit": "2026-04-01T10:04:59Z",
             "owner": "jet",
@@ -1362,6 +1448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77564499,
             "language": "F#",
             "last_commit": "2023-08-01T10:59:02Z",
             "owner": "fjoppe",
@@ -1373,7 +1460,7 @@
       "title": "Serialization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1382,6 +1469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139870214,
             "language": "CSS",
             "last_commit": "2026-08-17T13:22:46Z",
             "owner": "PragmaticFlow",
@@ -1396,11 +1484,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10790442,
             "language": "F#",
             "last_commit": "2026-08-18T22:19:49Z",
             "owner": "fscheck",
             "repo": "FsCheck",
-            "stars": 1246
+            "stars": 1247
           }
         },
         {
@@ -1410,6 +1499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71635809,
             "language": "F#",
             "last_commit": "2026-06-17T23:27:49Z",
             "owner": "haf",
@@ -1424,6 +1514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113666681,
             "language": "F#",
             "last_commit": "2026-08-12T18:27:29Z",
             "owner": "SteveGilham",
@@ -1438,6 +1529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3555592,
             "language": "F#",
             "last_commit": "2022-08-08T03:18:45Z",
             "owner": "lefthandedgoat",
@@ -1452,6 +1544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2958142,
             "language": "F#",
             "last_commit": "2025-07-11T09:10:57Z",
             "owner": "fsprojects",
@@ -1466,6 +1559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37795640,
             "language": "F#",
             "last_commit": "2024-12-01T02:53:35Z",
             "owner": "SwensenSoftware",
@@ -1480,6 +1574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70032233,
             "language": "F#",
             "last_commit": "2026-06-29T08:01:01Z",
             "owner": "hedgehogqa",
@@ -1494,6 +1589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666161276,
             "language": "F#",
             "last_commit": "2025-12-19T14:01:08Z",
             "owner": "cmeeren",
@@ -1508,6 +1604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25611608,
             "language": "F#",
             "last_commit": "2022-03-05T07:10:29Z",
             "owner": "persimmon-projects",
@@ -1519,7 +1616,7 @@
       "title": "Testing"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1528,6 +1625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7069076,
             "language": "F#",
             "last_commit": "2026-08-05T16:13:56Z",
             "owner": "fsprojects",
@@ -1542,11 +1640,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84382796,
             "language": "F#",
             "last_commit": "2026-06-24T03:40:59Z",
             "owner": "fsprojects",
             "repo": "Rezoom.SQL",
-            "stars": 679
+            "stars": 680
           }
         },
         {
@@ -1556,6 +1655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15056715,
             "language": "F#",
             "last_commit": "2026-07-29T19:29:54Z",
             "owner": "fsprojects",
@@ -1570,6 +1670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32864387,
             "language": "F#",
             "last_commit": "2026-08-01T08:34:43Z",
             "owner": "fsprojects",
@@ -1584,6 +1685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5197361,
             "language": "F#",
             "last_commit": "2026-08-16T08:47:54Z",
             "owner": "fslaborg",
@@ -1598,6 +1700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12784631,
             "language": "F#",
             "last_commit": "2026-08-10T07:37:11Z",
             "owner": "fsprojects",
@@ -1612,6 +1715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15778383,
             "language": "F#",
             "last_commit": "2019-12-06T22:18:54Z",
             "owner": "fsprojects",
@@ -1626,6 +1730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321706894,
             "language": "F#",
             "last_commit": "2026-06-25T20:39:43Z",
             "owner": "cmeeren",
@@ -1640,6 +1745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17212474,
             "language": "F#",
             "last_commit": "2025-10-30T09:53:14Z",
             "owner": "fsprojects",
@@ -1654,6 +1760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114558707,
             "language": "F#",
             "last_commit": "2022-09-04T17:33:26Z",
             "owner": "fsprojects",
@@ -1668,6 +1775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15906030,
             "language": "F#",
             "last_commit": "2025-05-03T15:04:46Z",
             "owner": "fsprojects",
@@ -1682,6 +1790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15111218,
             "language": "F#",
             "last_commit": "2019-06-17T19:25:56Z",
             "owner": "fsprojects",
@@ -1696,6 +1805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13474982,
             "language": "F#",
             "last_commit": "2020-04-21T22:14:30Z",
             "owner": "fsprojects",
@@ -1710,6 +1820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17055002,
             "language": "F#",
             "last_commit": "2019-10-11T13:55:45Z",
             "owner": "fsprojects",
@@ -1724,6 +1835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18081621,
             "language": "F#",
             "last_commit": "2021-11-24T21:59:31Z",
             "owner": "fsprojects",
@@ -1738,6 +1850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50368761,
             "language": "F#",
             "last_commit": "2021-11-20T14:21:17Z",
             "owner": "fsprojects",
@@ -1752,6 +1865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3333332,
             "language": "F#",
             "last_commit": "2022-06-20T14:19:32Z",
             "owner": "bleis-tift",
@@ -1766,6 +1880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17242766,
             "language": "F#",
             "last_commit": "2016-04-04T19:48:09Z",
             "owner": "fsprojects",
@@ -1780,6 +1895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 784274463,
             "language": "F#",
             "last_commit": "2026-01-14T13:40:38Z",
             "owner": "easybuild-org",
@@ -1794,6 +1910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15175158,
             "language": "F#",
             "last_commit": "2016-04-04T19:51:22Z",
             "owner": "fsprojects",
@@ -1808,6 +1925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16251682,
             "language": "F#",
             "last_commit": "2020-07-19T21:39:47Z",
             "owner": "fsprojects",
@@ -1822,6 +1940,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 164905132,
             "language": "F#",
             "last_commit": "2022-12-26T12:18:41Z",
             "owner": "dylanmeysmans",
@@ -1836,6 +1955,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25406546,
             "language": "F#",
             "last_commit": "2018-02-28T12:41:07Z",
             "owner": "fsprojects",
@@ -1847,7 +1967,7 @@
       "title": "Type Providers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1856,6 +1976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58708375,
             "language": "F#",
             "last_commit": "2026-06-15T10:09:44Z",
             "owner": "plotly",
@@ -1870,11 +1991,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24583887,
             "language": "F#",
             "last_commit": "2024-12-26T19:25:34Z",
             "owner": "fslaborg",
             "repo": "XPlot",
-            "stars": 288
+            "stars": 289
           }
         },
         {
@@ -1884,6 +2006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9406569,
             "language": "F#",
             "last_commit": "2020-07-06T16:08:07Z",
             "owner": "fslaborg",
@@ -1898,6 +2021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236464001,
             "language": "C#",
             "last_commit": "2026-08-03T11:59:12Z",
             "owner": "pablofrommars",
@@ -1912,6 +2036,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61974152,
             "language": "F#",
             "last_commit": "2026-08-05T16:09:18Z",
             "owner": "ChrisNikkel",
@@ -1923,7 +2048,7 @@
       "title": "Visualization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1932,6 +2057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78293270,
             "language": "F#",
             "last_commit": "2026-08-18T11:10:50Z",
             "owner": "giraffe-fsharp",
@@ -1946,6 +2072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 755200,
             "language": "F#",
             "last_commit": "2026-08-10T21:15:08Z",
             "owner": "SuaveIO",
@@ -1960,6 +2087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150334448,
             "language": "F#",
             "last_commit": "2026-08-16T15:02:19Z",
             "owner": "fsbolero",
@@ -1974,6 +2102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115228232,
             "language": "F#",
             "last_commit": "2024-07-31T12:04:48Z",
             "owner": "SaturnFramework",
@@ -1988,6 +2117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 251369709,
             "language": "F#",
             "last_commit": "2026-07-27T10:24:53Z",
             "owner": "falcoframework",
@@ -2002,11 +2132,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8651750,
             "language": "F#",
             "last_commit": "2026-06-28T15:08:40Z",
             "owner": "dotnet-websharper",
             "repo": "core",
-            "stars": 632
+            "stars": 633
           }
         },
         {
@@ -2016,6 +2147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197969166,
             "language": "F#",
             "last_commit": "2026-07-09T21:09:09Z",
             "owner": "fable-hub",
@@ -2030,6 +2162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737445704,
             "language": "F#",
             "last_commit": "2026-08-17T14:02:20Z",
             "owner": "Lanayx",
@@ -2044,6 +2177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241107034,
             "language": "F#",
             "last_commit": "2025-12-19T14:03:56Z",
             "owner": "cmeeren",
@@ -2058,6 +2192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55793143,
             "language": "CSS",
             "last_commit": "2018-03-01T02:43:32Z",
             "owner": "lefthandedgoat",
@@ -2069,7 +2204,7 @@
       "title": "Web Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2078,6 +2213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67582233,
             "language": "F#",
             "last_commit": "2026-08-10T13:01:56Z",
             "owner": "elmish",
@@ -2092,6 +2228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108005647,
             "language": "F#",
             "last_commit": "2025-11-15T10:40:12Z",
             "owner": "SAFE-Stack",
@@ -2106,6 +2243,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86018469,
             "language": "F#",
             "last_commit": "2026-08-15T15:14:19Z",
             "owner": "TheAngryByrd",
@@ -2120,6 +2258,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114050371,
             "language": "F#",
             "last_commit": "2024-08-19T21:38:19Z",
             "owner": "giraffe-fsharp",
@@ -2134,6 +2273,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88518822,
             "language": "F#",
             "last_commit": "2025-03-12T10:30:28Z",
             "owner": "MNie",
@@ -2148,6 +2288,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88282110,
             "language": "F#",
             "last_commit": "2019-07-08T04:01:42Z",
             "owner": "MNie",
@@ -2162,6 +2303,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100300165,
             "language": "F#",
             "last_commit": "2019-11-29T17:47:30Z",
             "owner": "MNie",
@@ -2173,96 +2315,105 @@
       "title": ".NET Core Templates"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Guide for Rust devs to learn F#",
+              "description": "Informal manual for users of Rust and F# to read through to learn about the other language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 372112816,
+                "language": null,
+                "last_commit": "2023-01-14T21:11:11Z",
+                "owner": "Dhghomon",
+                "repo": "rust-fsharp",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Guide for C# devs to learn F#",
+              "description": "A 30-minute F# tutorial for C# programmers, with back-to-back code snippets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75619581,
+                "language": null,
+                "last_commit": "2026-04-16T04:05:01Z",
+                "owner": "knocte",
+                "repo": "2fsharp",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Guide for Python devs to learn F#",
+              "description": "A 30-minute F# tutorial for Python programmers, with back-to-back code snippets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75619581,
+                "language": null,
+                "last_commit": "2026-04-16T04:05:01Z",
+                "owner": "knocte",
+                "repo": "2fsharp",
+                "stars": 168
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cheatsheets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome .NET!",
+              "description": "Collection of awesome .NET libraries, tools, frameworks and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21894635,
+                "language": null,
+                "last_commit": "2026-03-26T05:16:53Z",
+                "owner": "quozd",
+                "repo": "awesome-dotnet",
+                "stars": 21562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Companies using F#",
+              "description": "Community curated list of companies that use F# (maybe useful if you're looking for a job?)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204598117,
+                "language": null,
+                "last_commit": "2026-04-18T16:57:21Z",
+                "owner": "fsprojects",
+                "repo": "fsharp-companies",
+                "stars": 411
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Lists"
+        }
+      ],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Guide for Rust devs to learn F#",
-          "description": "Informal manual for users of Rust and F# to read through to learn about the other language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-14T21:11:11Z",
-            "owner": "Dhghomon",
-            "repo": "rust-fsharp",
-            "stars": 267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Guide for C# devs to learn F#",
-          "description": "A 30-minute F# tutorial for C# programmers, with back-to-back code snippets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-16T04:05:01Z",
-            "owner": "knocte",
-            "repo": "2fsharp",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Guide for Python devs to learn F#",
-          "description": "A 30-minute F# tutorial for Python programmers, with back-to-back code snippets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-16T04:05:01Z",
-            "owner": "knocte",
-            "repo": "2fsharp",
-            "stars": 168
-          }
-        }
-      ],
-      "title": "Cheatsheets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Awesome .NET!",
-          "description": "Collection of awesome .NET libraries, tools, frameworks and software.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-26T05:16:53Z",
-            "owner": "quozd",
-            "repo": "awesome-dotnet",
-            "stars": 21560
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Companies using F#",
-          "description": "Community curated list of companies that use F# (maybe useful if you're looking for a job?)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-18T16:57:21Z",
-            "owner": "fsprojects",
-            "repo": "fsharp-companies",
-            "stars": 411
-          }
-        }
-      ],
-      "title": "Other Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:23:11.102Z",
+    "last_updated": "2026-08-19T12:32:09.123Z",
     "original_repository": "fsprojects/awesome-fsharp",
+    "original_repository_id": 69236015,
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
     "enhanced_repository": "enhansome/enhansome-fsharp",
     "enhanced_repository_description": null,
