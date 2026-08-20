@@ -12,7 +12,7 @@
             "archived": false,
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-19T12:22:41Z",
+            "last_commit": "2026-08-19T23:34:22Z",
             "owner": "dotnet",
             "repo": "fsharp",
             "stars": 4320
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-19T05:59:49Z",
+            "last_commit": "2026-08-19T21:33:01Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10836
+            "stars": 10837
           }
         },
         {
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 49417923,
             "language": "F#",
-            "last_commit": "2026-08-19T06:48:56Z",
+            "last_commit": "2026-08-19T16:22:03Z",
             "owner": "fable-compiler",
             "repo": "Fable",
             "stars": 3145
@@ -1135,10 +1135,10 @@
             "archived": false,
             "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-19T09:09:04Z",
+            "last_commit": "2026-08-19T18:29:59Z",
             "owner": "bryanedds",
             "repo": "Nu",
-            "stars": 1358
+            "stars": 1360
           }
         },
         {
@@ -2122,7 +2122,7 @@
             "last_commit": "2026-07-27T10:24:53Z",
             "owner": "falcoframework",
             "repo": "Falco",
-            "stars": 638
+            "stars": 637
           }
         },
         {
@@ -2164,7 +2164,7 @@
             "archived": false,
             "id": 737445704,
             "language": "F#",
-            "last_commit": "2026-08-17T14:02:20Z",
+            "last_commit": "2026-08-19T23:20:19Z",
             "owner": "Lanayx",
             "repo": "Oxpecker",
             "stars": 421
@@ -2383,7 +2383,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21562
+                "stars": 21560
               }
             },
             {
@@ -2411,7 +2411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:09.123Z",
+    "last_updated": "2026-08-20T00:23:55.797Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "original_repository_id": 69236015,
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
