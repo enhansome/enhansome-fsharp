@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-23T23:33:16Z",
+            "last_commit": "2026-08-24T13:57:54Z",
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4322
+            "stars": 4321
           }
         },
         {
@@ -52,6 +52,222 @@
       "title": "Main Language-Related Repositories"
     },
     {
+      "description": "Looking to have a more enjoyable experience when consuming a popular .NET library? Here is a quick table.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ASP.NET Core Blazor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17620347,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:13:19Z",
+            "owner": "dotnet",
+            "repo": "aspnetcore",
+            "stars": 38392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bolero",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150334448,
+            "language": "F#",
+            "last_commit": "2026-08-21T15:44:45Z",
+            "owner": "fsbolero",
+            "repo": "Bolero",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASP.NET Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17620347,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:13:19Z",
+            "owner": "dotnet",
+            "repo": "aspnetcore",
+            "stars": 38392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Giraffe",
+          "description": "(+ optionally Saturn)Oxpecker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78293270,
+            "language": "F#",
+            "last_commit": "2026-08-18T11:10:50Z",
+            "owner": "giraffe-fsharp",
+            "repo": "Giraffe",
+            "stars": 2250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14964475,
+            "language": "C#",
+            "last_commit": "2026-08-24T13:49:01Z",
+            "owner": "AvaloniaUI",
+            "repo": "Avalonia",
+            "stars": 31380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avalonia.FuncUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185862220,
+            "language": "F#",
+            "last_commit": "2026-08-23T16:06:55Z",
+            "owner": "fsprojects",
+            "repo": "Avalonia.FuncUI",
+            "stars": 1257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAUI",
+          "description": "/Xamarin.Forms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 262395224,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:12:04Z",
+            "owner": "dotnet",
+            "repo": "maui",
+            "stars": 23309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabulous",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120334619,
+            "language": "F#",
+            "last_commit": "2026-08-24T14:05:11Z",
+            "owner": "fabulous-dev",
+            "repo": "Fabulous",
+            "stars": 1268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSTest",
+          "description": "/NUnit/xUnit.net",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65080725,
+            "language": "C#",
+            "last_commit": "2026-08-24T14:13:47Z",
+            "owner": "microsoft",
+            "repo": "testfx",
+            "stars": 1039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FsUnit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2958142,
+            "language": "F#",
+            "last_commit": "2025-07-11T09:10:57Z",
+            "owner": "fsprojects",
+            "repo": "FsUnit",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System.Text.Json",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210716005,
+            "language": "C#",
+            "last_commit": "2026-08-24T13:46:52Z",
+            "owner": "dotnet",
+            "repo": "runtime",
+            "stars": 18226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSharp.SystemTextJson",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200410761,
+            "language": "F#",
+            "last_commit": "2026-06-02T21:36:58Z",
+            "owner": "Tarmil",
+            "repo": "FSharp.SystemTextJson",
+            "stars": 367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153711945,
+            "language": "C#",
+            "last_commit": "2026-08-24T12:34:33Z",
+            "owner": "dotnet",
+            "repo": "wpf",
+            "stars": 7714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elmish.WPF",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94093878,
+            "language": "F#",
+            "last_commit": "2024-10-01T21:20:06Z",
+            "owner": "elmish",
+            "repo": "Elmish.WPF",
+            "stars": 461
+          }
+        }
+      ],
+      "title": "F# Wrappers for Popular .NET Libraries"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -63,7 +279,7 @@
             "archived": false,
             "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-23T17:18:13Z",
+            "last_commit": "2026-08-24T00:40:27Z",
             "owner": "dotnet",
             "repo": "orleans",
             "stars": 10843
@@ -393,7 +609,7 @@
             "archived": false,
             "id": 32942820,
             "language": "F#",
-            "last_commit": "2026-08-04T18:22:48Z",
+            "last_commit": "2026-08-24T14:10:24Z",
             "owner": "fsprojects",
             "repo": "FSharp.Control.AsyncSeq",
             "stars": 175
@@ -585,7 +801,7 @@
             "archived": false,
             "id": 12904102,
             "language": "F#",
-            "last_commit": "2026-08-02T05:29:54Z",
+            "last_commit": "2026-08-24T14:13:45Z",
             "owner": "fslaborg",
             "repo": "Deedle",
             "stars": 1006
@@ -691,6 +907,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "F# Playground",
+              "description": "Minimal playground for F#.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260968941,
+                "language": "C#",
+                "last_commit": "2022-11-08T18:36:24Z",
+                "owner": "Seng-Jik",
+                "repo": "FSharpPlayground",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fantomas",
               "description": "F# code formatter.",
               "children": [],
@@ -698,7 +936,7 @@
                 "archived": false,
                 "id": 7979677,
                 "language": "F#",
-                "last_commit": "2026-08-22T19:23:17Z",
+                "last_commit": "2026-08-24T14:13:34Z",
                 "owner": "fsprojects",
                 "repo": "fantomas",
                 "stars": 832
@@ -813,6 +1051,28 @@
           "description": null,
           "node_type": "group",
           "title": "Editor Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "fasm",
+              "description": "F# JIT disassembler, as a dotnet tool.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 365752530,
+                "language": "F#",
+                "last_commit": "2023-11-22T16:31:43Z",
+                "owner": "d-edge",
+                "repo": "fasmi",
+                "stars": 194
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Performance Analysis"
         }
       ],
       "title": "Development Tools"
@@ -1135,7 +1395,7 @@
             "archived": false,
             "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-23T23:14:31Z",
+            "last_commit": "2026-08-24T08:43:56Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1359
@@ -1171,10 +1431,10 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-23T23:57:05Z",
+            "last_commit": "2026-08-24T14:05:11Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -1464,6 +1724,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "F# RISC-V Instruction Set formal specification",
+          "description": "RISC-V CPU formal ISA Specification. RISC-V CPU simulator with ELF files execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205041674,
+            "language": "F#",
+            "last_commit": "2026-06-12T09:00:09Z",
+            "owner": "mrLSD",
+            "repo": "riscv-fs",
+            "stars": 290
+          }
+        }
+      ],
+      "title": "Simulation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SkunkHTML",
+          "description": "Markdown blog with GitHub Pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 907009534,
+            "language": "F#",
+            "last_commit": "2026-07-23T11:04:38Z",
+            "owner": "mg0x7BE",
+            "repo": "skunk-html",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Static Site Generators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "NBomber",
           "description": "Simple load testing framework for Pull and Push scenarios.",
           "children": [],
@@ -1504,7 +1806,7 @@
             "last_commit": "2026-06-17T23:27:49Z",
             "owner": "haf",
             "repo": "expecto",
-            "stars": 739
+            "stars": 740
           }
         },
         {
@@ -1627,7 +1929,7 @@
             "archived": false,
             "id": 7069076,
             "language": "F#",
-            "last_commit": "2026-08-05T16:13:56Z",
+            "last_commit": "2026-08-24T14:08:11Z",
             "owner": "fsprojects",
             "repo": "FSharp.Data",
             "stars": 873
@@ -1672,7 +1974,7 @@
             "archived": false,
             "id": 32864387,
             "language": "F#",
-            "last_commit": "2026-08-22T06:59:48Z",
+            "last_commit": "2026-08-24T14:13:14Z",
             "owner": "fsprojects",
             "repo": "SwaggerProvider",
             "stars": 278
@@ -1702,7 +2004,7 @@
             "archived": false,
             "id": 12784631,
             "language": "F#",
-            "last_commit": "2026-08-10T07:37:11Z",
+            "last_commit": "2026-08-24T14:10:25Z",
             "owner": "fsprojects",
             "repo": "FSharp.Data.SqlClient",
             "stars": 206
@@ -1962,6 +2264,28 @@
             "repo": "matprovider",
             "stars": 10
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FSharp.TypeProviders.StarterPack",
+              "description": "The ProvidedTypes SDK for creating F# type providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15222599,
+                "language": "F#",
+                "last_commit": "2026-08-24T14:11:37Z",
+                "owner": "fsprojects",
+                "repo": "FSharp.TypeProviders.SDK",
+                "stars": 304
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Creating Type Providers"
         }
       ],
       "title": "Type Providers"
@@ -1981,7 +2305,7 @@
             "last_commit": "2026-06-15T10:09:44Z",
             "owner": "plotly",
             "repo": "Plotly.NET",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -2411,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:01:37.322Z",
+    "last_updated": "2026-08-24T14:14:41.844Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "original_repository_id": 69236015,
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
