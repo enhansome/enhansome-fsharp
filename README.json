@@ -12,7 +12,7 @@
             "archived": false,
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-22T13:35:19Z",
+            "last_commit": "2026-08-23T23:33:16Z",
             "owner": "dotnet",
             "repo": "fsharp",
             "stars": 4322
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-22T23:03:36Z",
+            "last_commit": "2026-08-23T17:18:13Z",
             "owner": "dotnet",
             "repo": "orleans",
             "stars": 10843
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-19T16:22:03Z",
             "owner": "fable-compiler",
             "repo": "Fable",
-            "stars": 3144
+            "stars": 3145
           }
         },
         {
@@ -761,7 +761,7 @@
                 "last_commit": "2026-04-06T06:58:53Z",
                 "owner": "nightroman",
                 "repo": "FarNet",
-                "stars": 147
+                "stars": 148
               }
             },
             {
@@ -832,7 +832,7 @@
             "last_commit": "2026-08-12T08:52:07Z",
             "owner": "fsprojects",
             "repo": "FSharpPlus",
-            "stars": 940
+            "stars": 941
           }
         },
         {
@@ -919,7 +919,7 @@
             "archived": false,
             "id": 357745680,
             "language": "F#",
-            "last_commit": "2026-06-13T19:16:59Z",
+            "last_commit": "2026-08-23T21:08:51Z",
             "owner": "JordanMarr",
             "repo": "SqlHydra",
             "stars": 263
@@ -1135,10 +1135,10 @@
             "archived": false,
             "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-22T18:00:46Z",
+            "last_commit": "2026-08-23T23:14:31Z",
             "owner": "bryanedds",
             "repo": "Nu",
-            "stars": 1357
+            "stars": 1359
           }
         },
         {
@@ -1171,10 +1171,10 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2025-11-14T16:15:20Z",
+            "last_commit": "2026-08-23T23:57:05Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1266
+            "stars": 1267
           }
         },
         {
@@ -1186,7 +1186,7 @@
             "archived": false,
             "id": 185862220,
             "language": "F#",
-            "last_commit": "2026-07-28T20:12:23Z",
+            "last_commit": "2026-08-23T16:06:55Z",
             "owner": "fsprojects",
             "repo": "Avalonia.FuncUI",
             "stars": 1257
@@ -2383,7 +2383,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21568
+                "stars": 21574
               }
             },
             {
@@ -2411,7 +2411,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T00:01:38.485Z",
+    "last_updated": "2026-08-24T00:01:37.322Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "original_repository_id": 69236015,
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
