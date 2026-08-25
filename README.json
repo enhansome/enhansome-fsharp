@@ -12,10 +12,10 @@
             "archived": false,
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-24T23:34:14Z",
+            "last_commit": "2026-08-25T05:10:03Z",
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4321
+            "stars": 4322
           }
         },
         {
@@ -63,7 +63,7 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-24T23:10:29Z",
+            "last_commit": "2026-08-25T03:58:14Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38391
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-24T23:10:29Z",
+            "last_commit": "2026-08-25T03:58:14Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
             "stars": 38391
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 78293270,
             "language": "F#",
-            "last_commit": "2026-08-24T19:24:34Z",
+            "last_commit": "2026-08-25T01:11:02Z",
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
             "stars": 2250
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-24T23:07:14Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31381
+            "stars": 31382
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 262395224,
             "language": "C#",
-            "last_commit": "2026-08-25T00:23:45Z",
+            "last_commit": "2026-08-25T06:00:31Z",
             "owner": "dotnet",
             "repo": "maui",
             "stars": 23310
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-25T00:11:14Z",
+            "last_commit": "2026-08-25T00:34:20Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 65080725,
             "language": "C#",
-            "last_commit": "2026-08-24T23:22:46Z",
+            "last_commit": "2026-08-25T05:33:53Z",
             "owner": "microsoft",
             "repo": "testfx",
             "stars": 1039
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-25T00:07:33Z",
+            "last_commit": "2026-08-25T06:05:10Z",
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18226
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-24T12:34:33Z",
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7715
+            "stars": 7716
           }
         },
         {
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-24T22:34:48Z",
+            "last_commit": "2026-08-25T02:26:07Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10842
+            "stars": 10843
           }
         },
         {
@@ -498,7 +498,7 @@
             "archived": false,
             "id": 49417923,
             "language": "F#",
-            "last_commit": "2026-08-24T20:45:58Z",
+            "last_commit": "2026-08-25T05:53:24Z",
             "owner": "fable-compiler",
             "repo": "Fable",
             "stars": 3145
@@ -1395,7 +1395,7 @@
             "archived": false,
             "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-24T08:43:56Z",
+            "last_commit": "2026-08-25T03:47:39Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1359
@@ -1431,7 +1431,7 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-25T00:11:14Z",
+            "last_commit": "2026-08-25T00:34:20Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
@@ -2305,7 +2305,7 @@
             "last_commit": "2026-06-15T10:09:44Z",
             "owner": "plotly",
             "repo": "Plotly.NET",
-            "stars": 856
+            "stars": 858
           }
         },
         {
@@ -2383,7 +2383,7 @@
             "archived": false,
             "id": 78293270,
             "language": "F#",
-            "last_commit": "2026-08-24T19:24:34Z",
+            "last_commit": "2026-08-25T01:11:02Z",
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
             "stars": 2250
@@ -2707,7 +2707,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21576
+                "stars": 21577
               }
             },
             {
@@ -2735,7 +2735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T00:24:24.848Z",
+    "last_updated": "2026-08-25T06:06:36.118Z",
     "original_repository": "fsprojects/awesome-fsharp",
     "original_repository_id": 69236015,
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
