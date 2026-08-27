@@ -12,7 +12,7 @@
             "archived": false,
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-27T04:10:38Z",
+            "last_commit": "2026-08-27T10:41:44Z",
             "owner": "dotnet",
             "repo": "fsharp",
             "stars": 4323
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-27T04:27:42Z",
+            "last_commit": "2026-08-27T10:38:56Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38395
+            "stars": 38399
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-21T15:44:45Z",
             "owner": "fsbolero",
             "repo": "Bolero",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-27T04:27:42Z",
+            "last_commit": "2026-08-27T10:38:56Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38395
+            "stars": 38399
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-26T22:45:06Z",
+            "last_commit": "2026-08-27T10:19:09Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31391
+            "stars": 31398
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 262395224,
             "language": "C#",
-            "last_commit": "2026-08-27T05:05:02Z",
+            "last_commit": "2026-08-27T11:37:37Z",
             "owner": "dotnet",
             "repo": "maui",
-            "stars": 23310
+            "stars": 23311
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 65080725,
             "language": "C#",
-            "last_commit": "2026-08-27T04:33:58Z",
+            "last_commit": "2026-08-27T11:38:27Z",
             "owner": "microsoft",
             "repo": "testfx",
             "stars": 1040
@@ -213,10 +213,10 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-27T02:44:53Z",
+            "last_commit": "2026-08-27T11:15:18Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18228
+            "stars": 18231
           }
         },
         {
@@ -243,10 +243,10 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-27T02:11:00Z",
+            "last_commit": "2026-08-27T07:07:39Z",
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7717
+            "stars": 7718
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-27T03:35:53Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10844
+            "stars": 10846
           }
         },
         {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 15509440,
             "language": "C#",
-            "last_commit": "2026-08-27T04:22:13Z",
+            "last_commit": "2026-08-27T11:13:52Z",
             "owner": "akkadotnet",
             "repo": "akka.net",
-            "stars": 5080
+            "stars": 5081
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2026-03-13T04:23:29Z",
             "owner": "asynkron",
             "repo": "protoactor-dotnet",
-            "stars": 1895
+            "stars": 1896
           }
         },
         {
@@ -936,7 +936,7 @@
                 "archived": false,
                 "id": 7979677,
                 "language": "F#",
-                "last_commit": "2026-08-27T02:14:39Z",
+                "last_commit": "2026-08-27T09:14:07Z",
                 "owner": "fsprojects",
                 "repo": "fantomas",
                 "stars": 832
@@ -2276,7 +2276,7 @@
                 "archived": false,
                 "id": 15222599,
                 "language": "F#",
-                "last_commit": "2026-08-25T00:09:41Z",
+                "last_commit": "2026-08-27T07:31:00Z",
                 "owner": "fsprojects",
                 "repo": "FSharp.TypeProviders.SDK",
                 "stars": 304
@@ -2416,7 +2416,7 @@
             "last_commit": "2026-08-21T15:44:45Z",
             "owner": "fsbolero",
             "repo": "Bolero",
-            "stars": 1130
+            "stars": 1131
           }
         },
         {
@@ -2707,7 +2707,7 @@
                 "last_commit": "2026-03-26T05:16:53Z",
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21577
+                "stars": 21578
               }
             },
             {
@@ -2735,9 +2735,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:08:40.830Z",
-    "original_repository": "fsprojects/awesome-fsharp",
-    "original_repository_id": 69236015,
+    "last_updated": "2026-08-27T11:38:27.386Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 69236015,
+      "language": "F#",
+      "last_commit": "2026-03-21T15:21:56Z",
+      "owner": "fsprojects",
+      "repo": "awesome-fsharp",
+      "stars": 1431
+    },
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
     "enhanced_repository": "enhansome/enhansome-fsharp",
     "enhanced_repository_description": null,
