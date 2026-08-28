@@ -12,11 +12,12 @@
             "archived": false,
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-27T10:41:44Z",
+            "last_commit": "2026-08-28T06:02:37Z",
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4323
-          }
+            "stars": 4322
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "fsharp",
             "repo": "fslang-design",
             "stars": 553
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "fsharp",
             "repo": "fslang-suggestions",
             "stars": 373
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Main Language-Related Repositories"
@@ -63,11 +66,12 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-27T10:38:56Z",
+            "last_commit": "2026-08-28T06:56:17Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38399
-          }
+            "stars": 38400
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "fsbolero",
             "repo": "Bolero",
             "stars": 1131
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-27T10:38:56Z",
+            "last_commit": "2026-08-28T06:56:17Z",
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38399
-          }
+            "stars": 38400
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
             "stars": 2250
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-27T10:19:09Z",
+            "last_commit": "2026-08-28T06:53:40Z",
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31398
-          }
+            "stars": 31404
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "fsprojects",
             "repo": "Avalonia.FuncUI",
             "stars": 1257
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -153,11 +162,12 @@
             "archived": false,
             "id": 262395224,
             "language": "C#",
-            "last_commit": "2026-08-27T11:37:37Z",
+            "last_commit": "2026-08-28T07:04:19Z",
             "owner": "dotnet",
             "repo": "maui",
-            "stars": 23311
-          }
+            "stars": 23314
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -168,11 +178,12 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-27T00:43:00Z",
+            "last_commit": "2026-08-28T02:12:44Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 65080725,
             "language": "C#",
-            "last_commit": "2026-08-27T11:38:27Z",
+            "last_commit": "2026-08-28T06:43:52Z",
             "owner": "microsoft",
             "repo": "testfx",
             "stars": 1040
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "fsprojects",
             "repo": "FsUnit",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-27T11:15:18Z",
+            "last_commit": "2026-08-28T04:39:56Z",
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18231
-          }
+            "stars": 18233
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "Tarmil",
             "repo": "FSharp.SystemTextJson",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -243,11 +258,12 @@
             "archived": false,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-27T07:07:39Z",
+            "last_commit": "2026-08-28T04:27:19Z",
             "owner": "dotnet",
             "repo": "wpf",
             "stars": 7718
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "elmish",
             "repo": "Elmish.WPF",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "F# Wrappers for Popular .NET Libraries"
@@ -279,11 +296,12 @@
             "archived": false,
             "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-27T03:35:53Z",
+            "last_commit": "2026-08-28T06:58:19Z",
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10846
-          }
+            "stars": 10851
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -294,11 +312,12 @@
             "archived": false,
             "id": 15509440,
             "language": "C#",
-            "last_commit": "2026-08-27T11:13:52Z",
+            "last_commit": "2026-08-28T04:11:46Z",
             "owner": "akkadotnet",
             "repo": "akka.net",
             "stars": 5081
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "asynkron",
             "repo": "protoactor-dotnet",
             "stars": 1896
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "OrleansContrib",
             "repo": "Orleankka",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "Horusiath",
             "repo": "Akkling",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Actor Frameworks"
@@ -364,7 +386,8 @@
             "owner": "fsprojects",
             "repo": "FAKE",
             "stars": 1323
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "OlegZee",
             "repo": "Xake",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Build Tools"
@@ -400,7 +424,8 @@
             "owner": "CompositionalIT",
             "repo": "farmer",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "UnoSD",
             "repo": "Pulumi.FSharp.Extensions",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "mrbandler",
             "repo": "FsFirestore",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "DanpowerGruppe",
             "repo": "Chia",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Cloud"
@@ -466,7 +494,8 @@
             "owner": "MoiraeSoftware",
             "repo": "Myriad",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -481,7 +510,8 @@
             "owner": "Zaid-Ajaj",
             "repo": "Hawaii",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Code Generation"
@@ -502,7 +532,8 @@
             "owner": "fable-compiler",
             "repo": "Fable",
             "stars": 3144
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -516,8 +547,9 @@
             "last_commit": "2017-02-14T14:25:32Z",
             "owner": "ZachBray",
             "repo": "FunScript",
-            "stars": 444
-          }
+            "stars": 443
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "kjnilsson",
             "repo": "fez",
             "stars": 286
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -547,7 +580,8 @@
             "owner": "calebh",
             "repo": "Juniper",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Compilers for Other Platforms"
@@ -568,7 +602,8 @@
             "owner": "Hopac",
             "repo": "Hopac",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "crowded",
             "repo": "ply",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -598,7 +634,8 @@
             "owner": "rspeele",
             "repo": "TaskBuilder.fs",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -613,7 +650,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Control.AsyncSeq",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -628,7 +666,8 @@
             "owner": "kekyo",
             "repo": "FSharp.Control.FusionTasks",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -643,7 +682,8 @@
             "owner": "TheAngryByrd",
             "repo": "IcedTasks",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -658,7 +698,8 @@
             "owner": "dbrattli",
             "repo": "Fable.Reaction",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -673,7 +714,8 @@
             "owner": "fs-fio",
             "repo": "fio",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -688,7 +730,8 @@
             "owner": "fsprojects",
             "repo": "FSharpx.Async",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Concurrent, Asynchronous, and Parallel Programming"
@@ -709,7 +752,8 @@
             "owner": "fsprojects",
             "repo": "Argu",
             "stars": 489
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -724,7 +768,8 @@
             "owner": "demystifyfp",
             "repo": "FsConfig",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -739,7 +784,8 @@
             "owner": "docopt",
             "repo": "docopt.fs",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -754,7 +800,8 @@
             "owner": "Meyhem",
             "repo": "Skid",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Configuration"
@@ -774,8 +821,9 @@
             "last_commit": "2025-03-03T21:39:46Z",
             "owner": "mathnet",
             "repo": "mathnet-numerics",
-            "stars": 3765
-          }
+            "stars": 3766
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
             "stars": 2998
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "fslaborg",
             "repo": "Deedle",
             "stars": 1006
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "DiffSharp",
             "repo": "DiffSharp",
             "stars": 615
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "fsprojects",
             "repo": "IfSharp",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -850,7 +902,8 @@
             "owner": "mathnet",
             "repo": "mathnet-symbolics",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -865,7 +918,8 @@
             "owner": "fsprojects",
             "repo": "SIMDArray",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -880,7 +934,8 @@
             "owner": "mrdimosthenis",
             "repo": "Synapses",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -895,7 +950,8 @@
             "owner": "fslaborg",
             "repo": "FsLab",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Data Science"
@@ -918,7 +974,8 @@
                 "owner": "Seng-Jik",
                 "repo": "FSharpPlayground",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             }
           ],
           "description": null,
@@ -936,11 +993,12 @@
                 "archived": false,
                 "id": 7979677,
                 "language": "F#",
-                "last_commit": "2026-08-27T09:14:07Z",
+                "last_commit": "2026-08-28T06:52:25Z",
                 "owner": "fsprojects",
                 "repo": "fantomas",
                 "stars": 832
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -955,7 +1013,8 @@
                 "owner": "AshleyF",
                 "repo": "VimSpeak",
                 "stars": 416
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -970,7 +1029,8 @@
                 "owner": "fsprojects",
                 "repo": "FSharpLint",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -985,7 +1045,8 @@
                 "owner": "fsharp",
                 "repo": "emacs-fsharp-mode",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -1000,7 +1061,8 @@
                 "owner": "nightroman",
                 "repo": "FarNet",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -1015,7 +1077,8 @@
                 "owner": "fsharp",
                 "repo": "zarchive-vim-fsharp",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -1030,7 +1093,8 @@
                 "owner": "adelarsq",
                 "repo": "neofsharp.vim",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -1045,7 +1109,8 @@
                 "owner": "pablofrommars",
                 "repo": "fsharp-notebook",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             }
           ],
           "description": null,
@@ -1067,7 +1132,8 @@
                 "owner": "d-edge",
                 "repo": "fasmi",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             }
           ],
           "description": null,
@@ -1093,7 +1159,8 @@
             "owner": "fsprojects",
             "repo": "FSharpPlus",
             "stars": 941
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1108,7 +1175,8 @@
             "owner": "fsprojects",
             "repo": "FSharpx.Extras",
             "stars": 697
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1123,7 +1191,8 @@
             "owner": "demystifyfp",
             "repo": "FsToolkit.ErrorHandling",
             "stars": 552
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1138,7 +1207,8 @@
             "owner": "microsoft",
             "repo": "fsharplu",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1153,7 +1223,8 @@
             "owner": "Zaid-Ajaj",
             "repo": "Npgsql.FSharp",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1168,7 +1239,8 @@
             "owner": "eiriktsarpalis",
             "repo": "TypeShape",
             "stars": 322
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1179,11 +1251,12 @@
             "archived": false,
             "id": 357745680,
             "language": "F#",
-            "last_commit": "2026-08-23T21:08:51Z",
+            "last_commit": "2026-08-27T15:02:57Z",
             "owner": "JordanMarr",
             "repo": "SqlHydra",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1271,8 @@
             "owner": "CaptnCodr",
             "repo": "Fli",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1287,8 @@
             "owner": "pimbrouwers",
             "repo": "Donald",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1303,8 @@
             "owner": "fsprojects",
             "repo": "Chessie",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1319,8 @@
             "owner": "Zaid-Ajaj",
             "repo": "LiteDB.FSharp",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1335,8 @@
             "owner": "xyncro",
             "repo": "aether",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1351,8 @@
             "owner": "jack-pappas",
             "repo": "ExtCore",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1367,8 @@
             "owner": "pimbrouwers",
             "repo": "Validus",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1383,8 @@
             "owner": "tforkmann",
             "repo": "Fumble",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1399,8 @@
             "owner": "aaronpowell",
             "repo": "FSharp.CosmosDb",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1415,8 @@
             "owner": "Zaid-Ajaj",
             "repo": "DustyTables",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1431,8 @@
             "owner": "fsprojects",
             "repo": "fsharp-hashcollections",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1447,8 @@
             "owner": "cmeeren",
             "repo": "Fling",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1463,8 @@
             "owner": "veepee-oss",
             "repo": "Vp.FSharp.Sql",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "General Purpose Libraries"
@@ -1395,11 +1481,12 @@
             "archived": false,
             "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-25T19:21:37Z",
+            "last_commit": "2026-08-28T02:04:13Z",
             "owner": "bryanedds",
             "repo": "Nu",
             "stars": 1359
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1501,8 @@
             "owner": "bcarruthers",
             "repo": "garnet",
             "stars": 168
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Game Development"
@@ -1431,11 +1519,12 @@
             "archived": false,
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-27T00:43:00Z",
+            "last_commit": "2026-08-28T02:12:44Z",
             "owner": "fabulous-dev",
             "repo": "Fabulous",
             "stars": 1268
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1450,7 +1539,8 @@
             "owner": "fsprojects",
             "repo": "Avalonia.FuncUI",
             "stars": 1257
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1465,7 +1555,8 @@
             "owner": "elmish",
             "repo": "Elmish.WPF",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1480,7 +1571,8 @@
             "owner": "kekyo",
             "repo": "Epoxy",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "GUI"
@@ -1501,7 +1593,8 @@
             "owner": "fsprojects",
             "repo": "FsHttp",
             "stars": 498
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1516,7 +1609,8 @@
             "owner": "haf",
             "repo": "Http.fs",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1527,11 +1621,12 @@
             "archived": false,
             "id": 202505943,
             "language": "F#",
-            "last_commit": "2026-08-26T10:41:12Z",
+            "last_commit": "2026-08-27T15:08:14Z",
             "owner": "cognitedata",
             "repo": "oryx",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "HTTP Clients"
@@ -1552,7 +1647,8 @@
             "owner": "causiq",
             "repo": "logary",
             "stars": 531
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1567,7 +1663,8 @@
             "owner": "TheAngryByrd",
             "repo": "FsLibLog",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Logging"
@@ -1588,7 +1685,8 @@
             "owner": "stephan-tolksdorf",
             "repo": "fparsec",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1603,7 +1701,8 @@
             "owner": "corsis",
             "repo": "XParsec",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1618,7 +1717,8 @@
             "owner": "haf",
             "repo": "FsAttoparsec",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Parsing"
@@ -1639,7 +1739,8 @@
             "owner": "Tarmil",
             "repo": "FSharp.SystemTextJson",
             "stars": 367
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1654,7 +1755,8 @@
             "owner": "mbraceproject",
             "repo": "FsPickler",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1669,7 +1771,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Json",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1684,7 +1787,8 @@
             "owner": "fsprojects",
             "repo": "Fleece",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1803,8 @@
             "owner": "jet",
             "repo": "FsCodec",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1819,8 @@
             "owner": "fjoppe",
             "repo": "Legivel",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Serialization"
@@ -1735,7 +1841,8 @@
             "owner": "mrLSD",
             "repo": "riscv-fs",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Simulation"
@@ -1756,7 +1863,8 @@
             "owner": "mg0x7BE",
             "repo": "skunk-html",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Static Site Generators"
@@ -1777,7 +1885,8 @@
             "owner": "PragmaticFlow",
             "repo": "NBomber",
             "stars": 2238
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1792,7 +1901,8 @@
             "owner": "fscheck",
             "repo": "FsCheck",
             "stars": 1245
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1807,7 +1917,8 @@
             "owner": "haf",
             "repo": "expecto",
             "stars": 740
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1933,8 @@
             "owner": "SteveGilham",
             "repo": "altcover",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1949,8 @@
             "owner": "lefthandedgoat",
             "repo": "canopy",
             "stars": 509
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1965,8 @@
             "owner": "fsprojects",
             "repo": "FsUnit",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1981,8 @@
             "owner": "SwensenSoftware",
             "repo": "unquote",
             "stars": 298
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +1997,8 @@
             "owner": "hedgehogqa",
             "repo": "fsharp-hedgehog",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2013,8 @@
             "owner": "cmeeren",
             "repo": "Faqt",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2029,8 @@
             "owner": "persimmon-projects",
             "repo": "Persimmon",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Testing"
@@ -1933,7 +2051,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Data",
             "stars": 873
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1948,7 +2067,8 @@
             "owner": "fsprojects",
             "repo": "Rezoom.SQL",
             "stars": 679
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1963,7 +2083,8 @@
             "owner": "fsprojects",
             "repo": "SQLProvider",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1978,7 +2099,8 @@
             "owner": "fsprojects",
             "repo": "SwaggerProvider",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -1993,7 +2115,8 @@
             "owner": "fslaborg",
             "repo": "RProvider",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2008,7 +2131,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Data.SqlClient",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2023,7 +2147,8 @@
             "owner": "fsprojects",
             "repo": "FsXaml",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2038,7 +2163,8 @@
             "owner": "cmeeren",
             "repo": "Facil",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2053,7 +2179,8 @@
             "owner": "fsprojects",
             "repo": "ExcelProvider",
             "stars": 148
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2068,7 +2195,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Data.Npgsql",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2083,7 +2211,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Configuration",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2098,7 +2227,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Management",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2113,7 +2243,8 @@
             "owner": "fsprojects",
             "repo": "AzureStorageTypeProvider",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2128,7 +2259,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Text.RegexProvider",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2143,7 +2275,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Data.Toolbox",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2158,7 +2291,8 @@
             "owner": "fsprojects",
             "repo": "FSharp.Data.TypeProviders",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2173,7 +2307,8 @@
             "owner": "bleis-tift",
             "repo": "FsYaml",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2188,7 +2323,8 @@
             "owner": "fsprojects",
             "repo": "GraphProvider",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2203,7 +2339,8 @@
             "owner": "easybuild-org",
             "repo": "EasyBuild.FileSystemProvider",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2218,7 +2355,8 @@
             "owner": "fsprojects",
             "repo": "S3Provider",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2233,7 +2371,8 @@
             "owner": "fsprojects",
             "repo": "DynamicsCRMProvider",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2248,7 +2387,8 @@
             "owner": "dylanmeysmans",
             "repo": "FSharp.Data.Tdms",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2263,7 +2403,8 @@
             "owner": "fsprojects",
             "repo": "matprovider",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "children": [
@@ -2280,7 +2421,8 @@
                 "owner": "fsprojects",
                 "repo": "FSharp.TypeProviders.SDK",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             }
           ],
           "description": null,
@@ -2306,7 +2448,8 @@
             "owner": "plotly",
             "repo": "Plotly.NET",
             "stars": 859
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2321,7 +2464,8 @@
             "owner": "fslaborg",
             "repo": "XPlot",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2336,7 +2480,8 @@
             "owner": "fslaborg",
             "repo": "FSharp.Charting",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2351,7 +2496,8 @@
             "owner": "pablofrommars",
             "repo": "GGNet",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2366,7 +2512,8 @@
             "owner": "ChrisNikkel",
             "repo": "SharpVG",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Visualization"
@@ -2387,7 +2534,8 @@
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
             "stars": 2250
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2402,7 +2550,8 @@
             "owner": "SuaveIO",
             "repo": "suave",
             "stars": 1349
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2417,7 +2566,8 @@
             "owner": "fsbolero",
             "repo": "Bolero",
             "stars": 1131
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2432,7 +2582,8 @@
             "owner": "SaturnFramework",
             "repo": "Saturn",
             "stars": 725
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2447,7 +2598,8 @@
             "owner": "falcoframework",
             "repo": "Falco",
             "stars": 637
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2462,7 +2614,8 @@
             "owner": "dotnet-websharper",
             "repo": "core",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2477,7 +2630,8 @@
             "owner": "fable-hub",
             "repo": "Feliz",
             "stars": 609
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2492,7 +2646,8 @@
             "owner": "Lanayx",
             "repo": "Oxpecker",
             "stars": 422
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2507,7 +2662,8 @@
             "owner": "cmeeren",
             "repo": "Felicity",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2522,7 +2678,8 @@
             "owner": "lefthandedgoat",
             "repo": "genit",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": "Web Frameworks"
@@ -2543,7 +2700,8 @@
             "owner": "elmish",
             "repo": "elmish",
             "stars": 905
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2558,7 +2716,8 @@
             "owner": "SAFE-Stack",
             "repo": "SAFE-template",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2573,7 +2732,8 @@
             "owner": "TheAngryByrd",
             "repo": "MiniScaffold",
             "stars": 271
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2588,7 +2748,8 @@
             "owner": "giraffe-fsharp",
             "repo": "giraffe-template",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2603,7 +2764,8 @@
             "owner": "MNie",
             "repo": "Expecto.Template",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2618,7 +2780,8 @@
             "owner": "MNie",
             "repo": "FSharpNetCoreWebApiTemplate",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         },
         {
           "node_type": "item",
@@ -2633,7 +2796,8 @@
             "owner": "MNie",
             "repo": "NancyFxCore",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T07:07:26.151Z"
         }
       ],
       "title": ".NET Core Templates"
@@ -2656,7 +2820,8 @@
                 "owner": "Dhghomon",
                 "repo": "rust-fsharp",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -2671,7 +2836,8 @@
                 "owner": "knocte",
                 "repo": "2fsharp",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -2686,7 +2852,8 @@
                 "owner": "knocte",
                 "repo": "2fsharp",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             }
           ],
           "description": null,
@@ -2708,7 +2875,8 @@
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
                 "stars": 21578
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             },
             {
               "node_type": "item",
@@ -2723,7 +2891,8 @@
                 "owner": "fsprojects",
                 "repo": "fsharp-companies",
                 "stars": 411
-              }
+              },
+              "first_seen": "2026-08-28T07:07:26.151Z"
             }
           ],
           "description": null,
@@ -2735,7 +2904,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:38:27.386Z",
+    "last_updated": "2026-08-28T07:07:26.151Z",
     "original_repository_info": {
       "archived": false,
       "id": 69236015,
