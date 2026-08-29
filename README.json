@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio",
+            "homepage": "https://dotnet.microsoft.com/languages/fsharp",
             "id": 29048891,
             "language": "F#",
-            "last_commit": "2026-08-28T06:02:37Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:37:51Z",
+            "open_issues": 1254,
             "owner": "dotnet",
             "repo": "fsharp",
-            "stars": 4322
+            "stars": 4323,
+            "topics": [
+              "compiler",
+              "dotnet",
+              "fsharp",
+              "functional-programming",
+              "intellisense",
+              "netcore",
+              "tools",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -26,12 +40,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas ",
+            "homepage": null,
             "id": 21203458,
             "language": "F#",
+            "license": null,
             "last_commit": "2026-08-13T12:06:38Z",
+            "open_issues": 32,
             "owner": "fsharp",
             "repo": "fslang-design",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "fsharp",
+              "language-design",
+              "programming-language",
+              "rfc"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -42,12 +66,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The place to make suggestions, discuss and vote on F# language and core library features",
+            "homepage": null,
             "id": 71413675,
             "language": null,
+            "license": null,
             "last_commit": "2025-02-27T11:39:14Z",
+            "open_issues": 338,
             "owner": "fsharp",
             "repo": "fslang-suggestions",
-            "stars": 373
+            "stars": 373,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -64,12 +93,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+            "homepage": "https://asp.net",
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-28T06:56:17Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:44:07Z",
+            "open_issues": 4136,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38400
+            "stars": 38400,
+            "topics": [
+              "aspnetcore",
+              "dotnet",
+              "hacktoberfest",
+              "help-wanted"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -80,12 +119,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.",
+            "homepage": "https://fsbolero.io",
             "id": 150334448,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T15:44:45Z",
+            "open_issues": 69,
             "owner": "fsbolero",
             "repo": "Bolero",
-            "stars": 1131
+            "stars": 1131,
+            "topics": [
+              "blazor",
+              "bolero",
+              "fsharp",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -96,12 +145,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+            "homepage": "https://asp.net",
             "id": 17620347,
             "language": "C#",
-            "last_commit": "2026-08-28T06:56:17Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:44:07Z",
+            "open_issues": 4136,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38400
+            "stars": 38400,
+            "topics": [
+              "aspnetcore",
+              "dotnet",
+              "hacktoberfest",
+              "help-wanted"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -112,12 +171,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native functional ASP.NET Core web framework for F# developers.",
+            "homepage": "https://giraffe.wiki",
             "id": 78293270,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T01:11:02Z",
+            "open_issues": 48,
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
-            "stars": 2250
+            "stars": 2252,
+            "topics": [
+              "aspnet-core",
+              "dotliquid",
+              "dotnet",
+              "dotnet-core",
+              "fsharp",
+              "giraffe",
+              "http-handler",
+              "micro-framework",
+              "middleware",
+              "model-view-presenter",
+              "template-engine",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -128,12 +205,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI",
+            "homepage": "https://avaloniaui.net",
             "id": 14964475,
             "language": "C#",
-            "last_commit": "2026-08-28T06:53:40Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:47:43Z",
+            "open_issues": 1893,
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31404
+            "stars": 31412,
+            "topics": [
+              "android",
+              "app-framework",
+              "avalonia",
+              "avaloniaui",
+              "browser",
+              "c-sharp",
+              "cross-platform",
+              "csharp",
+              "desktop",
+              "dotnet",
+              "gui",
+              "ios",
+              "linux",
+              "macos",
+              "mobile",
+              "mvvm",
+              "wasm",
+              "windows",
+              "xamarin",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -144,12 +247,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop cross-plattform GUI Applications using F# and Avalonia!",
+            "homepage": "https://funcui.avaloniaui.net/",
             "id": 185862220,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-23T16:06:55Z",
+            "open_issues": 16,
             "owner": "fsprojects",
             "repo": "Avalonia.FuncUI",
-            "stars": 1257
+            "stars": 1257,
+            "topics": [
+              "avalonia",
+              "avaloniaui",
+              "dotnet",
+              "elmish",
+              "fsharp",
+              "gui",
+              "mvu",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -160,12 +277,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+            "homepage": "https://dot.net/maui",
             "id": 262395224,
             "language": "C#",
-            "last_commit": "2026-08-28T07:04:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:03:23Z",
+            "open_issues": 3821,
             "owner": "dotnet",
             "repo": "maui",
-            "stars": 23314
+            "stars": 23315,
+            "topics": [
+              "android",
+              "desktop",
+              "dotnet",
+              "hacktoberfest",
+              "ios",
+              "maccatalyst",
+              "maui",
+              "microsoft",
+              "mobile",
+              "multi-platform",
+              "user-interface",
+              "winui",
+              "winui3"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -176,12 +312,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative UI framework for cross-platform mobile & desktop apps, using MVU and F# functional programming",
+            "homepage": "https://fabulous-dev.github.io/Fabulous/",
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-28T02:12:44Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:35:22Z",
+            "open_issues": 7,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1268
+            "stars": 1268,
+            "topics": [
+              "declarative-ui",
+              "fabulous",
+              "fsharp",
+              "mvu"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -192,12 +338,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative to VSTest, as well as MSTest adapter and framework.",
+            "homepage": null,
             "id": 65080725,
             "language": "C#",
-            "last_commit": "2026-08-28T06:43:52Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:51:49Z",
+            "open_issues": 81,
             "owner": "microsoft",
             "repo": "testfx",
-            "stars": 1040
+            "stars": 1041,
+            "topics": [
+              "dotnet",
+              "microsoft",
+              "microsoft-testing-platform",
+              "mstest",
+              "mstestv2",
+              "mstestv3",
+              "mstestv4",
+              "mtp",
+              "tdd",
+              "test",
+              "test-framework",
+              "test-runner",
+              "testing",
+              "testing-tools",
+              "unittest",
+              "visual-studio"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -208,12 +376,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.",
+            "homepage": "http://fsprojects.github.io/FsUnit/",
             "id": 2958142,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-07-11T09:10:57Z",
+            "open_issues": 6,
             "owner": "fsprojects",
             "repo": "FsUnit",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "dotnet",
+              "fsharp",
+              "fsunit",
+              "mstest",
+              "nunit",
+              "testing",
+              "xunit"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -224,12 +405,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+            "homepage": "https://docs.microsoft.com/dotnet/core/",
             "id": 210716005,
             "language": "C#",
-            "last_commit": "2026-08-28T04:39:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:19:03Z",
+            "open_issues": 7615,
             "owner": "dotnet",
             "repo": "runtime",
-            "stars": 18233
+            "stars": 18234,
+            "topics": [
+              "dotnet",
+              "hacktoberfest",
+              "help-wanted"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -240,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System.Text.Json extensions for F# types",
+            "homepage": null,
             "id": 200410761,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-02T21:36:58Z",
+            "open_issues": 45,
             "owner": "Tarmil",
             "repo": "FSharp.SystemTextJson",
-            "stars": 367
+            "stars": 367,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -256,12 +451,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WPF is a .NET Core UI framework for building Windows desktop applications.",
+            "homepage": null,
             "id": 153711945,
             "language": "C#",
-            "last_commit": "2026-08-28T04:27:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:09:24Z",
+            "open_issues": 1670,
             "owner": "dotnet",
             "repo": "wpf",
-            "stars": 7718
+            "stars": 7719,
+            "topics": [
+              "dotnet",
+              "help-wanted",
+              "wpf"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -272,12 +476,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static WPF views for elmish programs",
+            "homepage": null,
             "id": 94093878,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-01T21:20:06Z",
+            "open_issues": 61,
             "owner": "elmish",
             "repo": "Elmish.WPF",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "elm-architecture",
+              "elmish",
+              "wpf",
+              "xaml",
+              "xaml-views"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -294,12 +509,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud Native application framework for .NET",
+            "homepage": "https://dotnet.github.io/orleans/",
             "id": 28232663,
             "language": "C#",
-            "last_commit": "2026-08-28T06:58:19Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:01:45Z",
+            "open_issues": 677,
             "owner": "dotnet",
             "repo": "orleans",
-            "stars": 10851
+            "stars": 10851,
+            "topics": [
+              "actor-model",
+              "actors",
+              "cloud-computing",
+              "cloud-native",
+              "concurrency",
+              "distributed-actors",
+              "distributed-systems",
+              "dotnet",
+              "orleans"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -310,12 +540,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Canonical actor model implementation for .NET with local + distributed actors in C# and F#.",
+            "homepage": "http://getakka.net",
             "id": 15509440,
             "language": "C#",
-            "last_commit": "2026-08-28T04:11:46Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T11:45:49Z",
+            "open_issues": 448,
             "owner": "akkadotnet",
             "repo": "akka.net",
-            "stars": 5081
+            "stars": 5081,
+            "topics": [
+              "actor",
+              "actor-model",
+              "akka",
+              "akkadotnet",
+              "c-sharp",
+              "cluster",
+              "concurrency",
+              "distributed-programming",
+              "dotnet",
+              "reactive"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -326,12 +572,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin",
+            "homepage": "http://proto.actor",
             "id": 77786107,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-13T04:23:29Z",
+            "open_issues": 23,
             "owner": "asynkron",
             "repo": "protoactor-dotnet",
-            "stars": 1896
+            "stars": 1897,
+            "topics": [
+              "actors",
+              "akka",
+              "clustering",
+              "distributed-computing",
+              "distributed-systems",
+              "proto-actor"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -342,12 +600,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional API for Microsoft Orleans http://orleanscontrib.github.io/Orleankka",
+            "homepage": null,
             "id": 29269234,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-15T21:25:35Z",
+            "open_issues": 3,
             "owner": "OrleansContrib",
             "repo": "Orleankka",
-            "stars": 507
+            "stars": 507,
+            "topics": [
+              "actors",
+              "cqrs",
+              "event-sourcing",
+              "fsm",
+              "functional",
+              "orleans"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -358,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental F# typed API for Akka.NET",
+            "homepage": null,
             "id": 36930472,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T12:19:56Z",
+            "open_issues": 10,
             "owner": "Horusiath",
             "repo": "Akkling",
-            "stars": 237
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -380,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FAKE - F# Make",
+            "homepage": "https://fake.build",
             "id": 507569,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-13T13:29:22Z",
+            "open_issues": 58,
             "owner": "fsprojects",
             "repo": "FAKE",
-            "stars": 1323
+            "stars": 1323,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -396,12 +676,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Another MAKE utility implementation on F#, fully declarative with no-brain parallelism, inspired by Shake",
+            "homepage": null,
             "id": 220391610,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-02T21:50:01Z",
+            "open_issues": 0,
             "owner": "OlegZee",
             "repo": "Xake",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -418,12 +703,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repeatable Azure deployments with ARM templates - made easy!",
+            "homepage": "https://compositionalit.github.io/farmer",
             "id": 206799148,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-04-21T15:43:06Z",
+            "open_issues": 105,
             "owner": "CompositionalIT",
             "repo": "farmer",
-            "stars": 546
+            "stars": 546,
+            "topics": [
+              "arm-templates",
+              "azure",
+              "dotnet-core"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -434,12 +728,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# computational expressions to reduce boilerplate in Pulumi code",
+            "homepage": null,
             "id": 274506480,
             "language": "F#",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-28T08:31:11Z",
+            "open_issues": 3,
             "owner": "UnoSD",
             "repo": "Pulumi.FSharp.Extensions",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "aws",
+              "azure",
+              "fsharp",
+              "iac",
+              "kubernetes",
+              "myriad",
+              "pulumi",
+              "pulumi-aws",
+              "pulumi-azure",
+              "pulumi-kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -450,12 +760,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.",
+            "homepage": null,
             "id": 153169064,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2021-04-11T20:08:10Z",
+            "open_issues": 2,
             "owner": "mrbandler",
             "repo": "FsFirestore",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "base",
+              "cloud",
+              "core",
+              "dotnet",
+              "fire",
+              "firebase",
+              "firebase-database",
+              "firestore",
+              "fs",
+              "fsfirestore",
+              "fsharp",
+              "gcp",
+              "google",
+              "platform",
+              "store"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -466,12 +797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chia is a F# library which contains HelperFunctions for reporting, logging and Azure cloud operations. ",
+            "homepage": "https://danpowergruppe.github.io/Chia/",
             "id": 207311557,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-06T15:36:30Z",
+            "open_issues": 31,
             "owner": "DanpowerGruppe",
             "repo": "Chia",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -488,12 +824,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Myriad is a code generator for F#",
+            "homepage": "https://moiraesoftware.github.io/Myriad/",
             "id": 181503824,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T12:45:55Z",
+            "open_issues": 8,
             "owner": "MoiraeSoftware",
             "repo": "Myriad",
-            "stars": 387
+            "stars": 387,
+            "topics": [
+              "codegenerator",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -504,12 +848,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dotnet CLI tool to generate type-safe F# and Fable clients from OpenAPI/Swagger or OData  services",
+            "homepage": null,
             "id": 361887976,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-04-08T13:02:00Z",
+            "open_issues": 19,
             "owner": "Zaid-Ajaj",
             "repo": "Hawaii",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "dotnet-cli",
+              "fsharp",
+              "openapi",
+              "openapi-documents",
+              "openapi-generator",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -526,12 +882,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# to JavaScript, TypeScript, Python, Rust, Erlang and Dart Compiler",
+            "homepage": "http://fable.io/",
             "id": 49417923,
             "language": "F#",
-            "last_commit": "2026-08-26T19:26:08Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T13:52:30Z",
+            "open_issues": 170,
             "owner": "fable-compiler",
             "repo": "Fable",
-            "stars": 3144
+            "stars": 3144,
+            "topics": [
+              "beam",
+              "dart",
+              "erlang",
+              "fsharp",
+              "javascript",
+              "python",
+              "rust",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -542,12 +912,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider",
+            "homepage": null,
             "id": 6663589,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2017-02-14T14:25:32Z",
+            "open_issues": 47,
             "owner": "ZachBray",
             "repo": "FunScript",
-            "stars": 443
+            "stars": 443,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -558,12 +933,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# to core erlang compiler experiment",
+            "homepage": null,
             "id": 86670902,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2019-05-16T08:43:48Z",
+            "open_issues": 12,
             "owner": "kjnilsson",
             "repo": "fez",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "beam",
+              "erlang",
+              "fsharp",
+              "language"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -574,12 +959,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://www.juniper-lang.org/",
             "id": 197983736,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-11-16T04:23:56Z",
+            "open_issues": 8,
             "owner": "calebh",
             "repo": "Juniper",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "arduino",
+              "compiler",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -596,12 +990,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http://hopac.github.io/Hopac/Hopac.html",
+            "homepage": null,
             "id": 17032566,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-02-24T01:59:05Z",
+            "open_issues": 32,
             "owner": "Hopac",
             "repo": "Hopac",
-            "stars": 536
+            "stars": 536,
+            "topics": [
+              "actors",
+              "cml",
+              "concurrent-programming",
+              "csp",
+              "parallel"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -612,12 +1017,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance System.Threading.(Value)Task computation expressions for F#",
+            "homepage": null,
             "id": 167751943,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-11-30T21:17:59Z",
+            "open_issues": 4,
             "owner": "crowded",
             "repo": "ply",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -628,12 +1038,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# computation expression builder for System.Threading.Tasks",
+            "homepage": null,
             "id": 71193230,
             "language": "F#",
+            "license": "CC0-1.0",
             "last_commit": "2021-01-31T05:54:05Z",
+            "open_issues": 9,
             "owner": "rspeele",
             "repo": "TaskBuilder.fs",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "async",
+              "await",
+              "computation-expressions",
+              "fsharp",
+              "task"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -644,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous sequences for F#",
+            "homepage": "https://fsprojects.github.io/FSharp.Control.AsyncSeq/",
             "id": 32942820,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T22:58:47Z",
+            "open_issues": 2,
             "owner": "fsprojects",
             "repo": "FSharp.Control.AsyncSeq",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -660,12 +1086,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.",
+            "homepage": null,
             "id": 53183463,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-12T13:57:38Z",
+            "open_issues": 2,
             "owner": "kekyo",
             "repo": "FSharp.Control.FusionTasks",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "async",
+              "async-enumerable",
+              "csharp",
+              "dotnet",
+              "fsharp",
+              "interoperability",
+              "task",
+              "valuetask"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -676,12 +1116,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Cold Tasks and Cancellable Tasks",
+            "homepage": "https://www.jimmybyrd.me/IcedTasks/",
             "id": 465911780,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-26T18:51:31Z",
+            "open_issues": 4,
             "owner": "TheAngryByrd",
             "repo": "IcedTasks",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "async-await",
+              "dotnet",
+              "dotnet-core",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -692,12 +1142,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fable Reaction - Reactive (AsyncRx) for F# Elmish and Fable",
+            "homepage": "http://fablereaction.rtfd.io/",
             "id": 146164766,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2023-01-06T01:49:32Z",
+            "open_issues": 103,
             "owner": "dbrattli",
             "repo": "Fable.Reaction",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "elm",
+              "elmish",
+              "fable",
+              "fsharp",
+              "reactive",
+              "reactivex",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -708,12 +1171,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪻 A Type-Safe, Purely Functional Effect System for F#",
+            "homepage": "https://itsdaniel.dk/projects/fio",
             "id": 445239025,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:00:36Z",
+            "open_issues": 5,
             "owner": "fs-fio",
             "repo": "fio",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "concurrency",
+              "concurrent",
+              "concurrent-programming",
+              "effect-system",
+              "effect-systems",
+              "fiber",
+              "fibers",
+              "fsharp",
+              "functional-programing",
+              "green-threads",
+              "parallel-computing",
+              "parallel-programming",
+              "programming-library",
+              "runtime-system",
+              "threads"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -724,12 +1208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous programming utilities for F#",
+            "homepage": "http://fsprojects.github.io/FSharpx.Async/",
             "id": 31206672,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-12T23:08:05Z",
+            "open_issues": 20,
             "owner": "fsprojects",
             "repo": "FSharpx.Async",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -746,12 +1235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A declarative CLI argument parser for F#",
+            "homepage": "https://fsprojects.github.io/Argu",
             "id": 8786949,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-17T12:16:15Z",
+            "open_issues": 35,
             "owner": "fsprojects",
             "repo": "Argu",
-            "stars": 489
+            "stars": 489,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -762,12 +1256,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FsConfig is a F# library for reading configuration data from environment variables and AppSettings with type safety.",
+            "homepage": "https://www.demystifyfp.com/FsConfig/",
             "id": 115850069,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2023-10-24T18:00:25Z",
+            "open_issues": 5,
             "owner": "demystifyfp",
             "repo": "FsConfig",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "12-factor",
+              "appsettings",
+              "configuration",
+              "configuration-management",
+              "environment-variables",
+              "fsharp",
+              "functional-programming",
+              "generic-programming"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -778,12 +1286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docopt for F#",
+            "homepage": null,
             "id": 46389514,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2020-01-15T15:18:51Z",
+            "open_issues": 0,
             "owner": "docopt",
             "repo": "docopt.fs",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -794,12 +1307,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, single-file portable CLI utility for configuration templating",
+            "homepage": null,
             "id": 423206443,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-08-16T19:49:28Z",
+            "open_issues": 0,
             "owner": "Meyhem",
             "repo": "Skid",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "configuration",
+              "configuration-management",
+              "templating"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -816,12 +1338,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Math.NET Numerics",
+            "homepage": "http://numerics.mathdotnet.com",
             "id": 235303,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-03-03T21:39:46Z",
+            "open_issues": 334,
             "owner": "mathnet",
             "repo": "mathnet-numerics",
-            "stars": 3766
+            "stars": 3766,
+            "topics": [
+              "csharp",
+              "differentiation",
+              "fft",
+              "fsharp",
+              "integration",
+              "interpolation",
+              "linear-algebra",
+              "math",
+              "mathnet",
+              "matrix",
+              "numerics",
+              "random",
+              "regression",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -832,12 +1374,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transform ML models into a native code (Java, C, Python, Go, JavaScript, Visual Basic, C#, R, PowerShell, PHP, Dart, Haskell, Ruby, F#, Rust) with zero dependencies",
+            "homepage": null,
             "id": 165457814,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-03T17:30:36Z",
+            "open_issues": 62,
             "owner": "BayesWitnesses",
             "repo": "m2cgen",
-            "stars": 2998
+            "stars": 2998,
+            "topics": [
+              "c",
+              "csharp",
+              "dartlang",
+              "go",
+              "haskell",
+              "java",
+              "javascript",
+              "lightgbm",
+              "lightning",
+              "machine-learning",
+              "php",
+              "python",
+              "r",
+              "ruby",
+              "rust",
+              "scikit-learn",
+              "statistical-learning",
+              "statsmodels",
+              "xgboost"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -848,12 +1415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy to use .NET library for data and time series manipulation and for scientific programming",
+            "homepage": "http://fslab.org/Deedle/",
             "id": 12904102,
             "language": "F#",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-25T00:09:56Z",
+            "open_issues": 5,
             "owner": "fslaborg",
             "repo": "Deedle",
-            "stars": 1006
+            "stars": 1006,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -864,12 +1436,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DiffSharp: Differentiable Functional Programming",
+            "homepage": "http://diffsharp.github.io",
             "id": 23434755,
             "language": "F#",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-04-15T20:25:41Z",
+            "open_issues": 37,
             "owner": "DiffSharp",
             "repo": "DiffSharp",
-            "stars": 615
+            "stars": 615,
+            "topics": [
+              "autodiff",
+              "deep-learning",
+              "dotnet",
+              "gpu",
+              "machine-learning",
+              "neural-network",
+              "tensor"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -880,12 +1465,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# for Jupyter Notebooks",
+            "homepage": null,
             "id": 14906267,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-17T09:11:27Z",
+            "open_issues": 13,
             "owner": "fsprojects",
             "repo": "IfSharp",
-            "stars": 443
+            "stars": 443,
+            "topics": [
+              "f-sharp",
+              "jupyter",
+              "jupyter-notebook"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -896,12 +1490,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Math.NET Symbolics",
+            "homepage": "http://symbolics.mathdotnet.com",
             "id": 18252667,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-01-15T18:54:49Z",
+            "open_issues": 53,
             "owner": "mathnet",
             "repo": "mathnet-symbolics",
-            "stars": 368
+            "stars": 368,
+            "topics": [
+              "computer-algebra",
+              "dotnet",
+              "fsharp",
+              "math",
+              "mathnet",
+              "symbolic-manipulation"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -912,12 +1518,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SIMD enhanced Array operations",
+            "homepage": null,
             "id": 64141324,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-02-20T14:58:55Z",
+            "open_issues": 5,
             "owner": "fsprojects",
             "repo": "SIMDArray",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "fsharp",
+              "parallel",
+              "simd"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -928,12 +1543,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A group of neural-network libraries for functional and mainstream languages",
+            "homepage": "https://mrdimosthenis.github.io/Synapses",
             "id": 223785900,
             "language": null,
+            "license": null,
             "last_commit": "2021-09-23T20:55:47Z",
+            "open_issues": 0,
             "owner": "mrdimosthenis",
             "repo": "Synapses",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "clojure",
+              "csharp",
+              "deep-learning",
+              "elixir",
+              "fsharp",
+              "functional-programming",
+              "gleam",
+              "java",
+              "javascript",
+              "lightweight",
+              "machine-learning",
+              "neural-network",
+              "python",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -944,12 +1579,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The curated FsLab stack and public discussion board for all things FsLab.",
+            "homepage": "https://fslab.org",
             "id": 320379771,
             "language": "F#",
+            "license": null,
             "last_commit": "2024-04-19T07:45:04Z",
+            "open_issues": 5,
             "owner": "fslaborg",
             "repo": "FsLab",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -968,12 +1608,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The mini playground for F# Programming Language.",
+                "homepage": null,
                 "id": 260968941,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2022-11-08T18:36:24Z",
+                "open_issues": 1,
                 "owner": "Seng-Jik",
                 "repo": "FSharpPlayground",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "csharp",
+                  "desktop-application",
+                  "fluent-design",
+                  "fsharp",
+                  "playground"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             }
@@ -991,12 +1642,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FSharp source code formatter",
+                "homepage": "https://fsprojects.github.io/fantomas",
                 "id": 7979677,
                 "language": "F#",
-                "last_commit": "2026-08-28T06:52:25Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:03:45Z",
+                "open_issues": 79,
                 "owner": "fsprojects",
                 "repo": "fantomas",
-                "stars": 832
+                "stars": 832,
+                "topics": [
+                  "ast",
+                  "formatter",
+                  "fsharp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1007,12 +1667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Speak to your editor.",
+                "homepage": null,
                 "id": 9863254,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2020-09-09T20:17:17Z",
+                "open_issues": 4,
                 "owner": "AshleyF",
                 "repo": "VimSpeak",
-                "stars": 416
+                "stars": 416,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1023,12 +1688,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lint tool for F#",
+                "homepage": "https://fsprojects.github.io/FSharpLint/",
                 "id": 15882825,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2026-08-10T12:18:06Z",
+                "open_issues": 99,
                 "owner": "fsprojects",
                 "repo": "FSharpLint",
-                "stars": 328
+                "stars": 328,
+                "topics": [
+                  "dotnet",
+                  "fsharp",
+                  "lint",
+                  "linter"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1039,12 +1714,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "F# Emacs mode",
+                "homepage": null,
                 "id": 35509388,
                 "language": "Emacs Lisp",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-02T19:04:28Z",
+                "open_issues": 43,
                 "owner": "fsharp",
                 "repo": "emacs-fsharp-mode",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "emacs-mode",
+                  "fsharp",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1055,12 +1739,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Far Manager framework for .NET modules and scripts in PowerShell, F#, JavaScript.",
+                "homepage": "https://github.com/nightroman/FarNet/wiki",
                 "id": 32240029,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-06T06:58:53Z",
+                "open_issues": 1,
                 "owner": "nightroman",
                 "repo": "FarNet",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "c-sharp",
+                  "dot-net",
+                  "f-sharp",
+                  "far-manager",
+                  "javascript",
+                  "plugin",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1071,12 +1768,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "F# bindings for vim",
+                "homepage": null,
                 "id": 35509547,
                 "language": "Vim script",
+                "license": "MIT",
                 "last_commit": "2020-11-22T12:29:33Z",
+                "open_issues": 23,
                 "owner": "fsharp",
                 "repo": "zarchive-vim-fsharp",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "fsharp",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1087,12 +1792,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Basic F# support for (Neo)Vim 🔷🦔",
+                "homepage": null,
                 "id": 296999934,
                 "language": "Vim Script",
+                "license": "MIT",
                 "last_commit": "2024-04-06T20:33:28Z",
+                "open_issues": 1,
                 "owner": "adelarsq",
                 "repo": "neofsharp.vim",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "dotnet",
+                  "fsharp",
+                  "neovim",
+                  "plugin",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -1103,12 +1819,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data Science Notebook for F# interactive",
+                "homepage": "https://pablofrommars.github.io",
                 "id": 246633941,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2023-03-03T14:16:56Z",
+                "open_issues": 3,
                 "owner": "pablofrommars",
                 "repo": "fsharp-notebook",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "data-science",
+                  "data-visualization",
+                  "fsharp",
+                  "vscode-extension"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             }
@@ -1126,12 +1852,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "F# -> ASM disassembler",
+                "homepage": null,
                 "id": 365752530,
                 "language": "F#",
+                "license": "NOASSERTION",
                 "last_commit": "2023-11-22T16:31:43Z",
+                "open_issues": 3,
                 "owner": "d-edge",
                 "repo": "fasmi",
-                "stars": 194
+                "stars": 194,
+                "topics": [
+                  "assembler",
+                  "disassembler",
+                  "dotnet",
+                  "dotnet-tool",
+                  "fsharp",
+                  "jit",
+                  "msil"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             }
@@ -1153,12 +1892,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extensions for F#",
+            "homepage": "https://fsprojects.github.io/FSharpPlus",
             "id": 13643523,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T08:52:07Z",
+            "open_issues": 66,
             "owner": "fsprojects",
             "repo": "FSharpPlus",
-            "stars": 941
+            "stars": 941,
+            "topics": [
+              "arrow-functions",
+              "computation-expressions",
+              "extensions",
+              "f-sharp",
+              "generic-functions",
+              "lenses",
+              "monad-transformers"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1169,12 +1921,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functional programming and other utilities from the original \"fsharpx\" project",
+            "homepage": "https://fsprojects.github.io/FSharpx.Extras/",
             "id": 977333,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2025-12-20T13:22:24Z",
+            "open_issues": 10,
             "owner": "fsprojects",
             "repo": "FSharpx.Extras",
-            "stars": 697
+            "stars": 697,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1185,12 +1944,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated F# Library for error handling",
+            "homepage": "https://demystifyfp.gitbook.io/fstoolkit-errorhandling",
             "id": 141843316,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:37:09Z",
+            "open_issues": 11,
             "owner": "demystifyfp",
             "repo": "FsToolkit.ErrorHandling",
-            "stars": 552
+            "stars": 552,
+            "topics": [
+              "category-theory",
+              "error-handling",
+              "fsharp",
+              "railway-oriented-programming"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1201,12 +1970,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library provides a set of F# helpers for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.",
+            "homepage": "https://www.nuget.org/packages/Microsoft.FSharpLu/",
             "id": 61918361,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T20:38:03Z",
+            "open_issues": 10,
             "owner": "microsoft",
             "repo": "fsharplu",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1217,12 +1991,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thin F# wrapper around Npgsql, the PostgreSQL database driver for .NET",
+            "homepage": "https://zaid-ajaj.github.io/Npgsql.FSharp",
             "id": 117427853,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-02-28T03:53:31Z",
+            "open_issues": 16,
             "owner": "Zaid-Ajaj",
             "repo": "Npgsql.FSharp",
-            "stars": 339
+            "stars": 339,
+            "topics": [
+              "analyzer",
+              "fsharp",
+              "npgsql",
+              "postgresql"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1233,12 +2017,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Practical generic programming for F#",
+            "homepage": null,
             "id": 63956982,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-02-07T13:44:31Z",
+            "open_issues": 0,
             "owner": "eiriktsarpalis",
             "repo": "TypeShape",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "fsharp",
+              "generic-programming"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1249,12 +2041,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SqlHydra is a suite of NuGet packages for working with databases in F# including code generation tools and query expressions.",
+            "homepage": null,
             "id": 357745680,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:02:57Z",
+            "open_issues": 6,
             "owner": "JordanMarr",
             "repo": "SqlHydra",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "fsharp",
+              "orm",
+              "typeprovider"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1265,12 +2066,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Execute CLI commands from your F# code in F# style!",
+            "homepage": null,
             "id": 541595576,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-12T19:19:44Z",
+            "open_issues": 0,
             "owner": "CaptnCodr",
             "repo": "Fli",
-            "stars": 220
+            "stars": 220,
+            "topics": [
+              "cli",
+              "command-line",
+              "computation-expressions",
+              "fsharp",
+              "process",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1281,12 +2094,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, generic F# database abstraction.",
+            "homepage": null,
             "id": 251025716,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-02T12:39:29Z",
+            "open_issues": 2,
             "owner": "pimbrouwers",
             "repo": "Donald",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "ado",
+              "ado-net",
+              "dotnet",
+              "fsharp",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1297,12 +2121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Railway-oriented programming for .NET",
+            "homepage": "http://fsprojects.github.io/Chessie/",
             "id": 31379993,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2018-08-26T17:18:27Z",
+            "open_issues": 15,
             "owner": "fsprojects",
             "repo": "Chessie",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1313,12 +2142,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Advanced F# Support for LiteDB, an embedded NoSql database for .NET with type-safe query expression through F# quotations",
+            "homepage": null,
             "id": 105487677,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-12-08T15:21:43Z",
+            "open_issues": 8,
             "owner": "Zaid-Ajaj",
             "repo": "LiteDB.FSharp",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "embedded-database",
+              "fsharp",
+              "litedb",
+              "nosql"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1329,12 +2168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optics for F#",
+            "homepage": "https://xyncro.tech/aether",
             "id": 22785093,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2021-10-12T21:33:40Z",
+            "open_issues": 11,
             "owner": "xyncro",
             "repo": "aether",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1345,12 +2189,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extended core library for F#.",
+            "homepage": null,
             "id": 8594689,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2021-11-07T15:47:24Z",
+            "open_issues": 19,
             "owner": "jack-pappas",
             "repo": "ExtCore",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "csharp",
+              "data-structures",
+              "dotnet",
+              "fsharp",
+              "immutable",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1361,12 +2217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible F# validation library.",
+            "homepage": null,
             "id": 314656093,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-16T17:34:54Z",
+            "open_issues": 2,
             "owner": "pimbrouwers",
             "repo": "Validus",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1377,12 +2238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thin F# API for Sqlite for easy data access to sqlite database with functional seasoning on top",
+            "homepage": "https://tforkmann.github.io/Fumble/",
             "id": 270936534,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-12-05T21:58:20Z",
+            "open_issues": 3,
             "owner": "tforkmann",
             "repo": "Fumble",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1393,12 +2259,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An F# wrapper around Cosmos DB's .NET SDK to make it more friendly for F# developers",
+            "homepage": null,
             "id": 246171358,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-09-03T22:15:52Z",
+            "open_issues": 7,
             "owner": "aaronpowell",
             "repo": "FSharp.CosmosDb",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "azure",
+              "cosmosdb",
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1409,12 +2284,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thin F# API for SqlClient for easy data access to ms sql server with functional seasoning on top",
+            "homepage": null,
             "id": 168138110,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-01-16T19:41:28Z",
+            "open_issues": 8,
             "owner": "Zaid-Ajaj",
             "repo": "DustyTables",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "data-access",
+              "fsharp",
+              "mssql",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1425,12 +2310,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library providing fast hash based immutable map and set",
+            "homepage": null,
             "id": 229533537,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-04-07T19:41:46Z",
+            "open_issues": 5,
             "owner": "fsprojects",
             "repo": "fsharp-hashcollections",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "collections",
+              "fsharp",
+              "hamt",
+              "hashmap",
+              "hashset",
+              "immutable-collections"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1441,12 +2338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fling significantly reduces boilerplate needed to efficiently save/load complex domain entities to/from multiple tables.",
+            "homepage": null,
             "id": 347914928,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-12-19T14:03:58Z",
+            "open_issues": 0,
             "owner": "cmeeren",
             "repo": "Fling",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1457,12 +2359,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generic F# ADO Provider Wrapper",
+            "homepage": "https://github.com/veepee-oss/Vp.FSharp.Sql",
             "id": 315917988,
             "language": "F#",
+            "license": "ISC",
             "last_commit": "2024-11-25T13:39:11Z",
+            "open_issues": 11,
             "owner": "veepee-oss",
             "repo": "Vp.FSharp.Sql",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "adonet",
+              "fsharp",
+              "net",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1479,12 +2391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository hosting the functional Nu Game Engine and related projects.",
+            "homepage": null,
             "id": 11965691,
             "language": "F#",
-            "last_commit": "2026-08-28T02:04:13Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:50:43Z",
+            "open_issues": 199,
             "owner": "bryanedds",
             "repo": "Nu",
-            "stars": 1359
+            "stars": 1359,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1495,12 +2412,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "F# game composition library",
+            "homepage": null,
             "id": 195127241,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-12-24T16:38:58Z",
+            "open_issues": 0,
             "owner": "bcarruthers",
             "repo": "garnet",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1517,12 +2439,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative UI framework for cross-platform mobile & desktop apps, using MVU and F# functional programming",
+            "homepage": "https://fabulous-dev.github.io/Fabulous/",
             "id": 120334619,
             "language": "F#",
-            "last_commit": "2026-08-28T02:12:44Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:35:22Z",
+            "open_issues": 7,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
-            "stars": 1268
+            "stars": 1268,
+            "topics": [
+              "declarative-ui",
+              "fabulous",
+              "fsharp",
+              "mvu"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1533,12 +2465,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop cross-plattform GUI Applications using F# and Avalonia!",
+            "homepage": "https://funcui.avaloniaui.net/",
             "id": 185862220,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-23T16:06:55Z",
+            "open_issues": 16,
             "owner": "fsprojects",
             "repo": "Avalonia.FuncUI",
-            "stars": 1257
+            "stars": 1257,
+            "topics": [
+              "avalonia",
+              "avaloniaui",
+              "dotnet",
+              "elmish",
+              "fsharp",
+              "gui",
+              "mvu",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1549,12 +2495,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static WPF views for elmish programs",
+            "homepage": null,
             "id": 94093878,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-01T21:20:06Z",
+            "open_issues": 61,
             "owner": "elmish",
             "repo": "Elmish.WPF",
-            "stars": 461
+            "stars": 461,
+            "topics": [
+              "elm-architecture",
+              "elmish",
+              "wpf",
+              "xaml",
+              "xaml-views"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1565,12 +2522,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy, simplicity and minimalism multi-platform MVVM library.",
+            "homepage": null,
             "id": 251206182,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-10T04:32:37Z",
+            "open_issues": 5,
             "owner": "kekyo",
             "repo": "Epoxy",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "async",
+              "avaloniaui",
+              "csharp",
+              "dotnet",
+              "fsharp",
+              "maui",
+              "opensilver",
+              "wpf",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1587,12 +2559,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP library for F#",
+            "homepage": "https://fsprojects.github.io/FsHttp/",
             "id": 145749918,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T01:13:40Z",
+            "open_issues": 37,
             "owner": "fsprojects",
             "repo": "FsHttp",
-            "stars": 498
+            "stars": 498,
+            "topics": [
+              "fsharp",
+              "http",
+              "http-client",
+              "rest",
+              "rest-client"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1603,12 +2586,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, functional HTTP client library for F#",
+            "homepage": null,
             "id": 13659273,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-08-02T07:52:16Z",
+            "open_issues": 19,
             "owner": "haf",
             "repo": "Http.fs",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "f-sharp",
+              "http",
+              "http-client"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1619,12 +2611,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET Cross platform and highly composable middleware for building web request handlers in F#",
+            "homepage": null,
             "id": 202505943,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:08:14Z",
+            "open_issues": 5,
             "owner": "cognitedata",
             "repo": "oryx",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "ai-low-risk"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1641,12 +2640,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logs and metrics are one! Professional logging, metrics and analytics for your apps.",
+            "homepage": "https://docs.logary.tech/",
             "id": 20382492,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-18T19:29:50Z",
+            "open_issues": 71,
             "owner": "causiq",
             "repo": "logary",
-            "stars": 531
+            "stars": 531,
+            "topics": [
+              "analytics-tracking",
+              "histograms",
+              "logging",
+              "metrics",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1657,12 +2667,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FsLibLog is a single file you can copy paste or add through Paket Github dependencies to provide your F# library with a logging abstraction. This is a port of the C# LibLog.",
+            "homepage": null,
             "id": 170011765,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2023-03-14T17:55:23Z",
+            "open_issues": 4,
             "owner": "TheAngryByrd",
             "repo": "FsLibLog",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "dotnet",
+              "dotnet-core",
+              "fsharp",
+              "logging"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1679,12 +2699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A parser combinator library for F#",
+            "homepage": null,
             "id": 75967556,
             "language": "F#",
+            "license": null,
             "last_commit": "2023-11-13T01:57:14Z",
+            "open_issues": 30,
             "owner": "stephan-tolksdorf",
             "repo": "fparsec",
-            "stars": 558
+            "stars": 558,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1695,12 +2720,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "extensible, type-and-source-polymorphic, non-linear applicative parser combinator library for F# 3.0 and 4.0",
+            "homepage": "http://xparsec.corsis.tech",
             "id": 5817266,
             "language": "F#",
+            "license": null,
             "last_commit": "2018-03-14T20:34:47Z",
+            "open_issues": 0,
             "owner": "corsis",
             "repo": "XParsec",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "combinator",
+              "extensible",
+              "f-sharp",
+              "library",
+              "mit-licensed",
+              "parser",
+              "parser-combinators"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1711,12 +2749,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of Bryan O'Sullivan's attoparsec from Haskell to F#. Nuget: 'Attoparsec'",
+            "homepage": null,
             "id": 93030887,
             "language": "F#",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-02-04T15:22:33Z",
+            "open_issues": 0,
             "owner": "haf",
             "repo": "FsAttoparsec",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "attoparsec",
+              "combinators",
+              "fsharp",
+              "parsing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1733,12 +2781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "System.Text.Json extensions for F# types",
+            "homepage": null,
             "id": 200410761,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-02T21:36:58Z",
+            "open_issues": 45,
             "owner": "Tarmil",
             "repo": "FSharp.SystemTextJson",
-            "stars": 367
+            "stars": 367,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1749,12 +2802,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast multi-format message serializer for .NET",
+            "homepage": "http://mbraceproject.github.io/FsPickler/",
             "id": 7947365,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-03-21T14:46:17Z",
+            "open_issues": 17,
             "owner": "mbraceproject",
             "repo": "FsPickler",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "binary",
+              "bson",
+              "fsharp",
+              "json",
+              "picklers",
+              "serialization",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1765,12 +2831,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# JSON Reflection based serialization library",
+            "homepage": null,
             "id": 109074198,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-30T13:26:44Z",
+            "open_issues": 32,
             "owner": "fsprojects",
             "repo": "FSharp.Json",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "fsharp",
+              "json",
+              "reflection",
+              "serialization-library"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1781,12 +2857,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Json mapper for F#",
+            "homepage": "http://fsprojects.github.io/Fleece",
             "id": 15757031,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-22T16:32:33Z",
+            "open_issues": 26,
             "owner": "fsprojects",
             "repo": "Fleece",
-            "stars": 204
+            "stars": 204,
+            "topics": [
+              "codecs",
+              "json",
+              "json-mapper"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1797,12 +2882,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Event-Union Contract Encoding with versioning tolerant converters supporting System.Text.Json and Newtonsoft.Json",
+            "homepage": "https://github.com/jet/dotnet-templates",
             "id": 151720204,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-01T10:04:59Z",
+            "open_issues": 9,
             "owner": "jet",
             "repo": "FsCodec",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "codec",
+              "converters",
+              "discriminated-unions",
+              "fsharp",
+              "json",
+              "json-net",
+              "system-text-json",
+              "typeshape",
+              "union-encoder",
+              "unionconverter"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1813,12 +2914,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Yaml 1.2 parser",
+            "homepage": "https://fjoppe.github.io/Legivel",
             "id": 77564499,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2023-08-01T10:59:02Z",
+            "open_issues": 6,
             "owner": "fjoppe",
             "repo": "Legivel",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "fsharp",
+              "yaml",
+              "yaml-parser",
+              "yaml-processor"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1835,12 +2946,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# RISC-V Instruction Set formal specification",
+            "homepage": null,
             "id": 205041674,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-12T09:00:09Z",
+            "open_issues": 0,
             "owner": "mrLSD",
             "repo": "riscv-fs",
-            "stars": 290
+            "stars": 290,
+            "topics": [
+              "cpu",
+              "fs",
+              "fsharp",
+              "isa",
+              "library",
+              "risc-processor",
+              "risc-v",
+              "riscv",
+              "riscv-emulator",
+              "riscv-simulator",
+              "riscv32",
+              "riscv64"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1857,12 +2986,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown blog with GitHub Pages",
+            "homepage": "https://mg0x7BE.github.io/skunk-html/",
             "id": 907009534,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2026-07-23T11:04:38Z",
+            "open_issues": 0,
             "owner": "mg0x7BE",
             "repo": "skunk-html",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "blog-platform",
+              "blogger",
+              "blogging",
+              "github-actions",
+              "github-pages",
+              "markdown",
+              "markdown-converter",
+              "markdown-to-html",
+              "microblog",
+              "microblogging-service",
+              "static-site-generator",
+              "static-site-generators"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -1879,12 +3028,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed load-testing framework for .NET. Create distributed load test scenarios entirely using plain C# or F#. It is designed to test any system regardless of the protocol or a semantic model (Pull/Push).",
+            "homepage": "https://nbomber.com",
             "id": 139870214,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-08-17T13:22:46Z",
+            "open_issues": 173,
             "owner": "PragmaticFlow",
             "repo": "NBomber",
-            "stars": 2238
+            "stars": 2238,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "fsharp",
+              "integration-testing",
+              "load-testing",
+              "performance-testing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1895,12 +3056,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Random Testing for .NET",
+            "homepage": "https://fscheck.github.io/FsCheck/",
             "id": 10790442,
             "language": "F#",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-20T17:35:13Z",
+            "open_issues": 22,
             "owner": "fscheck",
             "repo": "FsCheck",
-            "stars": 1245
+            "stars": 1245,
+            "topics": [
+              "csharp",
+              "fscheck",
+              "fsharp",
+              "quickcheck",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1911,12 +3083,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A smooth testing lib for F#. APIs made for humans! Strong testing methodologies for everyone!",
+            "homepage": null,
             "id": 71635809,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T23:27:49Z",
+            "open_issues": 57,
             "owner": "haf",
             "repo": "expecto",
-            "stars": 740
+            "stars": 740,
+            "topics": [
+              "performance-testing",
+              "property-based-testing",
+              "stress-testing",
+              "testing",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1927,12 +3110,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono",
+            "homepage": null,
             "id": 113666681,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-12T18:27:29Z",
+            "open_issues": 5,
             "owner": "SteveGilham",
             "repo": "altcover",
-            "stars": 532
+            "stars": 532,
+            "topics": [
+              "code-coverage",
+              "coverage",
+              "cross-platform",
+              "dotnet",
+              "dotnet-core",
+              "dotnet-framework",
+              "dotnet-standard",
+              "mono",
+              "powershell",
+              "powershell-module",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1943,12 +3143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "f# web automation and testing library, built on top of Selenium (friendly to c# also)",
+            "homepage": "http://lefthandedgoat.github.io/canopy/",
             "id": 3555592,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-08-08T03:18:45Z",
+            "open_issues": 28,
             "owner": "lefthandedgoat",
             "repo": "canopy",
-            "stars": 509
+            "stars": 509,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1959,12 +3164,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.",
+            "homepage": "http://fsprojects.github.io/FsUnit/",
             "id": 2958142,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-07-11T09:10:57Z",
+            "open_issues": 6,
             "owner": "fsprojects",
             "repo": "FsUnit",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "dotnet",
+              "fsharp",
+              "fsunit",
+              "mstest",
+              "nunit",
+              "testing",
+              "xunit"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1975,12 +3193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write F# unit test assertions as quoted expressions, get step-by-step failure messages for free",
+            "homepage": "http://www.swensensoftware.com/unquote",
             "id": 37795640,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-01T02:53:35Z",
+            "open_issues": 8,
             "owner": "SwensenSoftware",
             "repo": "unquote",
-            "stars": 298
+            "stars": 298,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -1991,12 +3214,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Release with confidence, state-of-the-art property testing for .NET.",
+            "homepage": "https://hedgehogqa.github.io/fsharp-hedgehog/",
             "id": 70032233,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-29T08:01:01Z",
+            "open_issues": 34,
             "owner": "hedgehogqa",
             "repo": "fsharp-hedgehog",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "fsharp",
+              "property-based-testing",
+              "property-testing",
+              "quickcheck",
+              "test",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2007,12 +3245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent assertions for F#",
+            "homepage": null,
             "id": 666161276,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-12-19T14:01:08Z",
+            "open_issues": 3,
             "owner": "cmeeren",
             "repo": "Faqt",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2023,12 +3266,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A unit test framework for F# using computation expressions.",
+            "homepage": "http://persimmon-projects.github.io/Persimmon/",
             "id": 25611608,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-03-05T07:10:29Z",
+            "open_issues": 6,
             "owner": "persimmon-projects",
             "repo": "Persimmon",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "fsharp",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -2045,12 +3296,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Data: Library for Data Access",
+            "homepage": "https://fsprojects.github.io/FSharp.Data",
             "id": 7069076,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T00:11:47Z",
+            "open_issues": 4,
             "owner": "fsprojects",
             "repo": "FSharp.Data",
-            "stars": 873
+            "stars": 873,
+            "topics": [
+              "csv",
+              "data",
+              "fsharp",
+              "html",
+              "http",
+              "json",
+              "typeprovider",
+              "worldbank",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2061,12 +3327,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Statically typechecks a common SQL dialect and translates it to various RDBMS backends",
+            "homepage": null,
             "id": 84382796,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-24T03:40:59Z",
+            "open_issues": 18,
             "owner": "fsprojects",
             "repo": "Rezoom.SQL",
-            "stars": 679
+            "stars": 679,
+            "topics": [
+              "compiler",
+              "fsharp",
+              "postgresql",
+              "sql",
+              "sqlite",
+              "sqlserver",
+              "tsql",
+              "typechecker"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2077,12 +3357,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.",
+            "homepage": "https://fsprojects.github.io/SQLProvider",
             "id": 15056715,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-29T19:29:54Z",
+            "open_issues": 58,
             "owner": "fsprojects",
             "repo": "SQLProvider",
-            "stars": 627
+            "stars": 627,
+            "topics": [
+              "database",
+              "dotnet",
+              "firebirdsql",
+              "fsharp",
+              "mariadb",
+              "mysql",
+              "oracle",
+              "postgresql",
+              "sql",
+              "sql-server",
+              "sqlite",
+              "sqlserver",
+              "typeprovider"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2093,12 +3392,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# generative Type Provider for Swagger",
+            "homepage": "https://fsprojects.github.io/SwaggerProvider/",
             "id": 32864387,
             "language": "F#",
-            "last_commit": "2026-08-24T14:13:14Z",
+            "license": "Unlicense",
+            "last_commit": "2026-08-29T02:39:28Z",
+            "open_issues": 5,
             "owner": "fsprojects",
             "repo": "SwaggerProvider",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "fsharp",
+              "openapi",
+              "openapi2",
+              "openapi3",
+              "swagger",
+              "typeprovider"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2109,12 +3420,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An F# type provider for in-process R interop",
+            "homepage": "http://fslab.org/RProvider/",
             "id": 5197361,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T08:47:54Z",
+            "open_issues": 24,
             "owner": "fslaborg",
             "repo": "RProvider",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "r-language",
+              "r-programming",
+              "type-providers"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2125,12 +3445,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of F# Type Providers for statically typed access to MS SQL database",
+            "homepage": "http://fsprojects.github.io/FSharp.Data.SqlClient/",
             "id": 12784631,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T23:03:27Z",
+            "open_issues": 70,
             "owner": "fsprojects",
             "repo": "FSharp.Data.SqlClient",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "f-sharp",
+              "sql",
+              "sqlserver",
+              "t-sql",
+              "typeprovider"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2141,12 +3472,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Tools for working with XAML Projects",
+            "homepage": "http://fsprojects.github.io/FsXaml/",
             "id": 15778383,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2019-12-06T22:18:54Z",
+            "open_issues": 12,
             "owner": "fsprojects",
             "repo": "FsXaml",
-            "stars": 171
+            "stars": 171,
+            "topics": [
+              "fsharp",
+              "xaml"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2157,12 +3496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness.",
+            "homepage": null,
             "id": 321706894,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-25T20:39:43Z",
+            "open_issues": 4,
             "owner": "cmeeren",
             "repo": "Facil",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2173,12 +3517,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library is for the .NET platform implementing a Excel type provider.",
+            "homepage": "http://fsprojects.github.io/ExcelProvider/",
             "id": 17212474,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2025-10-30T09:53:14Z",
+            "open_issues": 20,
             "owner": "fsprojects",
             "repo": "ExcelProvider",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2189,12 +3538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# type providers to support statically typed access to input parameters and result set of sql statement in idiomatic F# way. Data modifications via statically typed tables.",
+            "homepage": null,
             "id": 114558707,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-04T17:33:26Z",
+            "open_issues": 8,
             "owner": "fsprojects",
             "repo": "FSharp.Data.Npgsql",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2205,12 +3559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The FSharp.Configuration project contains type providers for the configuration of .NET projects.",
+            "homepage": "http://fsprojects.github.io/FSharp.Configuration/",
             "id": 15906030,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-03T15:04:46Z",
+            "open_issues": 48,
             "owner": "fsprojects",
             "repo": "FSharp.Configuration",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2221,12 +3580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The FSharp.Management project contains various type providers for the management of the machine.",
+            "homepage": "http://fsprojects.github.io/FSharp.Management/",
             "id": 15111218,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2019-06-17T19:25:56Z",
+            "open_issues": 17,
             "owner": "fsprojects",
             "repo": "FSharp.Management",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2237,12 +3601,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An F# Azure Type Provider which can be used to explore Blob, Table and Queue Azure Storage assets and easily apply CRUD operations on them.",
+            "homepage": "http://fsprojects.github.io/AzureStorageTypeProvider/",
             "id": 13474982,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2020-04-21T22:14:30Z",
+            "open_issues": 20,
             "owner": "fsprojects",
             "repo": "AzureStorageTypeProvider",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "azure",
+              "azure-storage",
+              "fsharp",
+              "typeprovider"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2253,12 +3627,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A type provider for regular expressions.",
+            "homepage": "http://fsprojects.github.io/FSharp.Text.RegexProvider/",
             "id": 17055002,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2019-10-11T13:55:45Z",
+            "open_issues": 1,
             "owner": "fsprojects",
             "repo": "FSharp.Text.RegexProvider",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2269,12 +3648,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Data-based library for various data access APIs",
+            "homepage": "http://fsprojects.github.io/FSharp.Data.Toolbox/",
             "id": 18081621,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2021-11-24T21:59:31Z",
+            "open_issues": 7,
             "owner": "fsprojects",
             "repo": "FSharp.Data.Toolbox",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2285,12 +3669,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Type Providers for SqlDataConnection, SqlEntityConnection, ODataService, WsdlService and EdmxFile using .NET Framework generators",
+            "homepage": "https://fsprojects.github.io/FSharp.Data.TypeProviders/",
             "id": 50368761,
             "language": "F#",
+            "license": "Unlicense",
             "last_commit": "2021-11-20T14:21:17Z",
+            "open_issues": 1,
             "owner": "fsprojects",
             "repo": "FSharp.Data.TypeProviders",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2301,12 +3690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Typed Yaml Library for F#",
+            "homepage": "http://bleis-tift.github.com/FsYaml",
             "id": 3333332,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-20T14:19:32Z",
+            "open_issues": 6,
             "owner": "bleis-tift",
             "repo": "FsYaml",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2317,12 +3711,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A state machine type provider",
+            "homepage": "http://fsprojects.github.io/GraphProvider/",
             "id": 17242766,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2016-04-04T19:48:09Z",
+            "open_issues": 2,
             "owner": "fsprojects",
             "repo": "GraphProvider",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2333,12 +3732,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 784274463,
             "language": "F#",
+            "license": null,
             "last_commit": "2026-01-14T13:40:38Z",
+            "open_issues": 5,
             "owner": "easybuild-org",
             "repo": "EasyBuild.FileSystemProvider",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2349,12 +3753,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experimental type provider for Amazon S3",
+            "homepage": "http://fsprojects.github.io/S3Provider",
             "id": 15175158,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2016-04-04T19:51:22Z",
+            "open_issues": 6,
             "owner": "fsprojects",
             "repo": "S3Provider",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2365,12 +3774,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A type provider for Microsoft Dynamics CRM 2011.",
+            "homepage": "http://fsprojects.github.io/DynamicsCRMProvider/",
             "id": 16251682,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-19T21:39:47Z",
+            "open_issues": 7,
             "owner": "fsprojects",
             "repo": "DynamicsCRMProvider",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2381,12 +3795,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "TDMS 2.0 support for F# and C#",
+            "homepage": "https://mettekou.github.io/FSharp.Data.Tdms/",
             "id": 164905132,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-12-26T12:18:41Z",
+            "open_issues": 6,
             "owner": "dylanmeysmans",
             "repo": "FSharp.Data.Tdms",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "dotnet",
+              "fsharp",
+              "tdms",
+              "typeprovider"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2397,12 +3821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Type provider for .mat files",
+            "homepage": null,
             "id": 25406546,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2018-02-28T12:41:07Z",
+            "open_issues": 0,
             "owner": "fsprojects",
             "repo": "matprovider",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2415,12 +3844,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SDK for creating F# type providers",
+                "homepage": "https://fsprojects.github.io/FSharp.TypeProviders.SDK/",
                 "id": 15222599,
                 "language": "F#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T07:31:00Z",
+                "open_issues": 6,
                 "owner": "fsprojects",
                 "repo": "FSharp.TypeProviders.SDK",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "fsharp",
+                  "sdk",
+                  "typeprovider"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             }
@@ -2442,12 +3880,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive graphing library for .NET programming languages :chart_with_upwards_trend:",
+            "homepage": "https://plotly.net",
             "id": 58708375,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-06-15T10:09:44Z",
+            "open_issues": 46,
             "owner": "plotly",
             "repo": "Plotly.NET",
-            "stars": 859
+            "stars": 859,
+            "topics": [
+              "csharp",
+              "d3",
+              "dotnet",
+              "dotnet-core",
+              "fsharp",
+              "graph-library",
+              "plotly",
+              "plotlyjs",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2458,12 +3911,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of older plotting libraries for F#. Recommended to use Plotly.NET instead https://plotly.net/",
+            "homepage": "http://fslaborg.github.io/XPlot/",
             "id": 24583887,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-26T19:25:34Z",
+            "open_issues": 27,
             "owner": "fslaborg",
             "repo": "XPlot",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "fsharp"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2474,12 +3934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Charting library suitable for interactive F# scripting",
+            "homepage": "http://fslab.org/FSharp.Charting/",
             "id": 9406569,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-06T16:08:07Z",
+            "open_issues": 36,
             "owner": "fslaborg",
             "repo": "FSharp.Charting",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2490,12 +3955,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GG.Net Data Visualization",
+            "homepage": "https://pablofrommars.github.io",
             "id": 236464001,
             "language": "C#",
-            "last_commit": "2026-08-25T15:18:50Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:38:46Z",
+            "open_issues": 2,
             "owner": "pablofrommars",
             "repo": "GGNet",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "blazor",
+              "charting",
+              "charts",
+              "ml",
+              "plots",
+              "plotting",
+              "sparklines"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2506,12 +3984,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create SVG vector graphics in F#",
+            "homepage": "http://www.sharpvg.com/",
             "id": 61974152,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-22T14:25:54Z",
+            "open_issues": 13,
             "owner": "ChrisNikkel",
             "repo": "SharpVG",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "animation",
+              "graphics",
+              "svg",
+              "vector-graphics"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -2528,12 +4016,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native functional ASP.NET Core web framework for F# developers.",
+            "homepage": "https://giraffe.wiki",
             "id": 78293270,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T01:11:02Z",
+            "open_issues": 48,
             "owner": "giraffe-fsharp",
             "repo": "Giraffe",
-            "stars": 2250
+            "stars": 2252,
+            "topics": [
+              "aspnet-core",
+              "dotliquid",
+              "dotnet",
+              "dotnet-core",
+              "fsharp",
+              "giraffe",
+              "http-handler",
+              "micro-framework",
+              "middleware",
+              "model-view-presenter",
+              "template-engine",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2544,12 +4050,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.",
+            "homepage": "https://suave.io",
             "id": 755200,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T17:54:37Z",
+            "open_issues": 7,
             "owner": "SuaveIO",
             "repo": "suave",
-            "stars": 1349
+            "stars": 1349,
+            "topics": [
+              "async",
+              "dotnet",
+              "fsharp",
+              "functional",
+              "http-server",
+              "suave",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2560,12 +4079,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.",
+            "homepage": "https://fsbolero.io",
             "id": 150334448,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T15:44:45Z",
+            "open_issues": 69,
             "owner": "fsbolero",
             "repo": "Bolero",
-            "stars": 1131
+            "stars": 1131,
+            "topics": [
+              "blazor",
+              "bolero",
+              "fsharp",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2576,12 +4105,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opinionated, web development framework for F# which implements the server-side, functional MVC pattern",
+            "homepage": "https://saturnframework.org",
             "id": 115228232,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2024-07-31T12:04:48Z",
+            "open_issues": 55,
             "owner": "SaturnFramework",
             "repo": "Saturn",
-            "stars": 725
+            "stars": 725,
+            "topics": [
+              "backend",
+              "cross-platform",
+              "fsharp",
+              "mvc",
+              "mvc-architecture",
+              "mvc-framework",
+              "saturn",
+              "server-side",
+              "server-side-rendering",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2592,12 +4137,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A functional-first toolkit for building brilliant ASP.NET Core applications using F#.",
+            "homepage": "https://www.falcoframework.com",
             "id": 251369709,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T10:24:53Z",
+            "open_issues": 5,
             "owner": "falcoframework",
             "repo": "Falco",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "api",
+              "asp",
+              "asp-net",
+              "aspnet-core",
+              "asynchronous",
+              "f-sharp",
+              "falco",
+              "fsharp",
+              "functional",
+              "handlers",
+              "http",
+              "kestrel",
+              "router",
+              "routing",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2608,12 +4174,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebSharper - Full-stack, functional, reactive web apps and microservices in F# and C#",
+            "homepage": "https://websharper.com",
             "id": 8651750,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-28T15:08:40Z",
+            "open_issues": 278,
             "owner": "dotnet-websharper",
             "repo": "core",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "csharp",
+              "frp",
+              "fsharp",
+              "fullstack",
+              "functional",
+              "microservices",
+              "mvu",
+              "static-site-generator",
+              "websharper"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2624,12 +4205,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness",
+            "homepage": "https://fable-hub.github.io/Feliz/",
             "id": 197969166,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-07-09T21:09:09Z",
+            "open_issues": 1,
             "owner": "fable-hub",
             "repo": "Feliz",
-            "stars": 609
+            "stars": 609,
+            "topics": [
+              "dsl",
+              "elmish-applications",
+              "fable",
+              "feliz",
+              "fsharp",
+              "html",
+              "react",
+              "type-safe"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2640,12 +4235,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Backend and Frontend F# frameworks",
+            "homepage": "https://lanayx.github.io/Oxpecker/",
             "id": 737445704,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:16:25Z",
+            "open_issues": 9,
             "owner": "Lanayx",
             "repo": "Oxpecker",
-            "stars": 422
+            "stars": 422,
+            "topics": [
+              "asp-net-core",
+              "fsharp",
+              "htmx",
+              "solidjs",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2656,12 +4262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate-free, idiomatic JSON:API for your beautiful, idiomatic F# domain model. Optimized for developer happiness.",
+            "homepage": null,
             "id": 241107034,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-12-19T14:03:56Z",
+            "open_issues": 1,
             "owner": "cmeeren",
             "repo": "Felicity",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2672,12 +4283,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform website generator and server using F#, Suave and PostgreSQL.",
+            "homepage": null,
             "id": 55793143,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2018-03-01T02:43:32Z",
+            "open_issues": 16,
             "owner": "lefthandedgoat",
             "repo": "genit",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -2694,12 +4310,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elm-like abstractions for F# apps",
+            "homepage": "https://elmish.github.io/elmish/",
             "id": 67582233,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T13:01:56Z",
+            "open_issues": 8,
             "owner": "elmish",
             "repo": "elmish",
-            "stars": 905
+            "stars": 905,
+            "topics": [
+              "elm",
+              "fable",
+              "fsharp",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2710,12 +4336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dotnet CLI template for SAFE project",
+            "homepage": null,
             "id": 108005647,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2025-11-15T10:40:12Z",
+            "open_issues": 15,
             "owner": "SAFE-Stack",
             "repo": "SAFE-template",
-            "stars": 288
+            "stars": 288,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2726,12 +4357,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# Template for creating and publishing libraries targeting library or console apps.",
+            "homepage": "https://www.jimmybyrd.me/MiniScaffold/",
             "id": 86018469,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2026-08-15T15:14:19Z",
+            "open_issues": 15,
             "owner": "TheAngryByrd",
             "repo": "MiniScaffold",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "dotnet",
+              "dotnet-core",
+              "dotnet-framework",
+              "dotnet-template",
+              "fsharp",
+              "scaffold"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2742,12 +4385,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dotnet new template for Giraffe web applications.",
+            "homepage": null,
             "id": 114050371,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-19T21:38:19Z",
+            "open_issues": 5,
             "owner": "giraffe-fsharp",
             "repo": "giraffe-template",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "aspnet-core",
+              "dotnet-core",
+              "dotnet-template",
+              "fsharp",
+              "giraffe",
+              "giraffe-template",
+              "template-engine"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2758,12 +4414,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".net core template for an Expecto (https://github.com/haf/expecto)",
+            "homepage": "https://github.com/haf/expecto",
             "id": 88518822,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-12T10:30:28Z",
+            "open_issues": 1,
             "owner": "MNie",
             "repo": "Expecto.Template",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "dotnetcore",
+              "expecto",
+              "fsharp",
+              "tdd",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2774,12 +4441,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "F# .net core web api template",
+            "homepage": null,
             "id": 88282110,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-08T04:01:42Z",
+            "open_issues": 1,
             "owner": "MNie",
             "repo": "FSharpNetCoreWebApiTemplate",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "dotnetcore",
+              "fsharp",
+              "webapi"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         },
@@ -2790,12 +4466,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NancyFx F# .net core template",
+            "homepage": null,
             "id": 100300165,
             "language": "F#",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-29T17:47:30Z",
+            "open_issues": 0,
             "owner": "MNie",
             "repo": "NancyFxCore",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "fsharp",
+              "nancyfx",
+              "netcore",
+              "nuget",
+              "template"
+            ]
           },
           "first_seen": "2026-08-28T07:07:26.151Z"
         }
@@ -2814,12 +4501,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust - F# - Rust reference",
+                "homepage": null,
                 "id": 372112816,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-01-14T21:11:11Z",
+                "open_issues": 14,
                 "owner": "Dhghomon",
                 "repo": "rust-fsharp",
-                "stars": 267
+                "stars": 267,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -2830,12 +4522,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "30min F# tutorial with direct code-snippet back-to-back comparisons",
+                "homepage": null,
                 "id": 75619581,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-16T04:05:01Z",
+                "open_issues": 5,
                 "owner": "knocte",
                 "repo": "2fsharp",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "csharp",
+                  "fsharp",
+                  "python",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -2846,12 +4548,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "30min F# tutorial with direct code-snippet back-to-back comparisons",
+                "homepage": null,
                 "id": 75619581,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-16T04:05:01Z",
+                "open_issues": 5,
                 "owner": "knocte",
                 "repo": "2fsharp",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "csharp",
+                  "fsharp",
+                  "python",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             }
@@ -2869,12 +4581,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+                "homepage": null,
                 "id": 21894635,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-26T05:16:53Z",
+                "open_issues": 144,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21578
+                "stars": 21579,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "clr",
+                  "csharp",
+                  "dotnet",
+                  "fsharp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             },
@@ -2885,12 +4609,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community curated list of companies that use F#",
+                "homepage": null,
                 "id": 204598117,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-18T16:57:21Z",
+                "open_issues": 25,
                 "owner": "fsprojects",
                 "repo": "fsharp-companies",
-                "stars": 411
+                "stars": 411,
+                "topics": [
+                  "dotnet-core",
+                  "fsharp"
+                ]
               },
               "first_seen": "2026-08-28T07:07:26.151Z"
             }
@@ -2904,15 +4636,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:07:26.151Z",
+    "last_updated": "2026-08-29T04:30:26.023Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome F# frameworks, libraries, software and resources.",
+      "homepage": null,
       "id": 69236015,
       "language": "F#",
+      "license": "CC0-1.0",
       "last_commit": "2026-03-21T15:21:56Z",
+      "open_issues": 6,
       "owner": "fsprojects",
       "repo": "awesome-fsharp",
-      "stars": 1431
+      "stars": 1431,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "dotnet",
+        "fsharp"
+      ]
     },
     "original_repository_sha": "12bbcdab8b8d340850c6b28054d271c7037ed238",
     "enhanced_repository": "enhansome/enhansome-fsharp",
