@@ -49,8 +49,8 @@ This is a curated list of awesome F# frameworks, libraries, software and resourc
 
 ## Main Language-Related Repositories
 
-* [F# main repository](https://github.com/dotnet/fsharp) ⭐ 4,329 | 🐛 1,280 | 🌐 F# | 📅 2026-09-17
-* [F# RFCs](https://github.com/fsharp/fslang-design) ⭐ 558 | 🐛 40 | 🌐 F# | 📅 2026-09-16
+* [F# main repository](https://github.com/dotnet/fsharp) ⭐ 4,330 | 🐛 1,265 | 🌐 F# | 📅 2026-09-18
+* [F# RFCs](https://github.com/fsharp/fslang-design) ⭐ 558 | 🐛 39 | 🌐 F# | 📅 2026-09-17
 * [F# suggestions](https://github.com/fsharp/fslang-suggestions) ⭐ 373 | 🐛 340 | 📅 2025-02-27
 * [F# projects](https://github.com/fsprojects)
 
@@ -64,19 +64,19 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 | .NET Library                                                                                                                                                                                                                                                        | F# Wrapper                                                                                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) ⭐ 38,442 \| 🐛 4,167 \| 🌐 C# \| 📅 2026-09-16                                                                                                                                 | [Bolero](https://github.com/fsbolero/Bolero) ⭐ 1,133 \| 🐛 69 \| 🌐 F# \| 📅 2026-09-06                                                                                                                                                                                                                |
-| [ASP.NET Core](https://github.com/dotnet/aspnetcore) ⭐ 38,442 \| 🐛 4,167 \| 🌐 C# \| 📅 2026-09-16                                                                                                                                                                 | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) ⭐ 2,254 \| 🐛 50 \| 🌐 F# \| 📅 2026-09-14 (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn) ⭐ 725 \| 🐛 55 \| 🌐 F# \| 📅 2024-07-31)<br/>[Oxpecker](https://github.com/Lanayx/Oxpecker) ⭐ 427 \| 🐛 9 \| 🌐 F# \| 📅 2026-09-14 |
-| [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,517 \| 🐛 1,873 \| 🌐 C# \| 📅 2026-09-16                                                                                                                                                                   | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) ⭐ 1,261 \| 🐛 17 \| 🌐 F# \| 📅 2026-08-23                                                                                                                                                                                            |
-| [MAUI](https://github.com/dotnet/maui) ⭐ 23,314 \| 🐛 3,933 \| 🌐 C# \| 📅 2026-09-17/[Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) ⚠️ Archived                                                                                                         | [Fabulous](https://github.com/fabulous-dev/Fabulous) ⭐ 1,278 \| 🐛 18 \| 🌐 F# \| 📅 2026-09-14                                                                                                                                                                                                        |
-| [MSTest](https://github.com/microsoft/testfx) ⭐ 1,043 \| 🐛 62 \| 🌐 C# \| 📅 2026-09-17/[NUnit](https://github.com/nunit/nunit) ⭐ 2,626 \| 🐛 264 \| 🌐 C# \| 📅 2026-09-16/[xUnit.net](https://github.com/xunit/xunit) ⭐ 4,604 \| 🐛 20 \| 🌐 C# \| 📅 2026-09-16 | [FsUnit](https://github.com/fsprojects/FsUnit) ⭐ 445 \| 🐛 6 \| 🌐 F# \| 📅 2025-07-11                                                                                                                                                                                                                 |
-| [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) ⭐ 18,276 \| 🐛 7,902 \| 🌐 C# \| 📅 2026-09-17                                                                                                                       | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson) ⭐ 367 \| 🐛 45 \| 🌐 F# \| 📅 2026-06-02                                                                                                                                                                                      |
-| [WPF](https://github.com/dotnet/wpf) ⭐ 7,727 \| 🐛 1,672 \| 🌐 C# \| 📅 2026-09-16                                                                                                                                                                                  | [Elmish.WPF](https://github.com/elmish/Elmish.WPF) ⭐ 463 \| 🐛 61 \| 🌐 F# \| 📅 2024-10-01                                                                                                                                                                                                            |
+| [ASP.NET Core Blazor](https://github.com/dotnet/aspnetcore/tree/main/src/Components) ⭐ 38,443 \| 🐛 4,168 \| 🌐 C# \| 📅 2026-09-18                                                                                                                                 | [Bolero](https://github.com/fsbolero/Bolero) ⭐ 1,133 \| 🐛 69 \| 🌐 F# \| 📅 2026-09-06                                                                                                                                                                                                                |
+| [ASP.NET Core](https://github.com/dotnet/aspnetcore) ⭐ 38,443 \| 🐛 4,168 \| 🌐 C# \| 📅 2026-09-18                                                                                                                                                                 | [Giraffe](https://github.com/giraffe-fsharp/Giraffe) ⭐ 2,254 \| 🐛 50 \| 🌐 F# \| 📅 2026-09-14 (+ optionally [Saturn](https://github.com/SaturnFramework/Saturn) ⭐ 725 \| 🐛 55 \| 🌐 F# \| 📅 2024-07-31)<br/>[Oxpecker](https://github.com/Lanayx/Oxpecker) ⭐ 427 \| 🐛 9 \| 🌐 F# \| 📅 2026-09-14 |
+| [Avalonia](https://github.com/AvaloniaUI/Avalonia) ⭐ 31,516 \| 🐛 1,873 \| 🌐 C# \| 📅 2026-09-17                                                                                                                                                                   | [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) ⭐ 1,261 \| 🐛 17 \| 🌐 F# \| 📅 2026-08-23                                                                                                                                                                                            |
+| [MAUI](https://github.com/dotnet/maui) ⭐ 23,313 \| 🐛 3,950 \| 🌐 C# \| 📅 2026-09-17/[Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) ⚠️ Archived                                                                                                         | [Fabulous](https://github.com/fabulous-dev/Fabulous) ⭐ 1,279 \| 🐛 16 \| 🌐 F# \| 📅 2026-09-17                                                                                                                                                                                                        |
+| [MSTest](https://github.com/microsoft/testfx) ⭐ 1,043 \| 🐛 67 \| 🌐 C# \| 📅 2026-09-17/[NUnit](https://github.com/nunit/nunit) ⭐ 2,626 \| 🐛 264 \| 🌐 C# \| 📅 2026-09-18/[xUnit.net](https://github.com/xunit/xunit) ⭐ 4,605 \| 🐛 20 \| 🌐 C# \| 📅 2026-09-16 | [FsUnit](https://github.com/fsprojects/FsUnit) ⭐ 445 \| 🐛 6 \| 🌐 F# \| 📅 2025-07-11                                                                                                                                                                                                                 |
+| [System.Text.Json](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.Json) ⭐ 18,279 \| 🐛 7,899 \| 🌐 C# \| 📅 2026-09-18                                                                                                                       | [FSharp.SystemTextJson](https://github.com/Tarmil/FSharp.SystemTextJson) ⭐ 367 \| 🐛 45 \| 🌐 F# \| 📅 2026-06-02                                                                                                                                                                                      |
+| [WPF](https://github.com/dotnet/wpf) ⭐ 7,728 \| 🐛 1,670 \| 🌐 C# \| 📅 2026-09-17                                                                                                                                                                                  | [Elmish.WPF](https://github.com/elmish/Elmish.WPF) ⭐ 463 \| 🐛 61 \| 🌐 F# \| 📅 2024-10-01                                                                                                                                                                                                            |
 
 <!--lint enable double-link -->
 
 ## Actor Frameworks
 
-* [Orleans](https://github.com/dotnet/orleans) ⭐ 10,863 | 🐛 613 | 🌐 C# | 📅 2026-09-16 - Distributed virtual actor model.
+* [Orleans](https://github.com/dotnet/orleans) ⭐ 10,865 | 🐛 624 | 🌐 C# | 📅 2026-09-17 - Distributed virtual actor model.
 * [Akka.NET](https://github.com/akkadotnet/akka.net) ⭐ 5,083 | 🐛 452 | 🌐 C# | 📅 2026-09-14 - Community-driven port of the popular Java/Scala framework Akka to .NET.
 * [Proto.actor](https://github.com/AsynkronIT/protoactor-dotnet) ⭐ 1,896 | 🐛 23 | 🌐 C# | 📅 2026-03-13 - Cross-platform actor framework for .NET, Go, Java and Kotlin.
 * [Orleankka](https://github.com/OrleansContrib/Orleankka) ⭐ 506 | 🐛 3 | 🌐 C# | 📅 2025-12-15 - Functional extension for Microsoft Orleans framework.
@@ -89,7 +89,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Cloud
 
-* [Farmer](https://github.com/CompositionalIT/farmer) ⭐ 546 | 🐛 105 | 🌐 F# | 📅 2026-04-21 - Repeatable Azure deployments with ARM templates made easy.
+* [Farmer](https://github.com/CompositionalIT/farmer) ⭐ 546 | 🐛 106 | 🌐 F# | 📅 2026-04-21 - Repeatable Azure deployments with ARM templates made easy.
 * [Pulumi.FSharp.Extensions](https://github.com/UnoSD/Pulumi.FSharp.Extensions) ⭐ 98 | 🐛 3 | 🌐 F# | 📅 2026-02-28 - F# computational expressions to reduce boilerplate in Pulumi code.
 * [FsFirestore](https://github.com/mrbandler/FsFirestore) ⭐ 26 | 🐛 2 | 🌐 F# | 📅 2021-04-11 - Functional F# library to access Firestore database hosted on Google Cloud Platform (GCP) or Firebase.
 * [Chia](https://github.com/DanpowerGruppe/Chia) ⭐ 12 | 🐛 31 | 🌐 CSS | 📅 2023-01-06 - An F# library which contains HelperFunctions for reporting, logging and Azure cloud operations.
@@ -119,7 +119,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FSharp.Control.FusionTasks](https://github.com/kekyo/FSharp.Control.FusionTasks) ⭐ 160 | 🐛 2 | 🌐 F# | 📅 2022-11-12 - F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.
 * [IcedTasks](https://github.com/TheAngryByrd/IcedTasks) ⭐ 149 | 🐛 4 | 🌐 F# | 📅 2026-08-26 - Cold tasks, cancellable tasks, and extensions for the `async` workflow.
 * [Reaction.AsyncRx](https://github.com/dbrattli/Reaction) ⭐ 143 | 🐛 103 | 🌐 F# | 📅 2023-01-06 - An implementation of Async Observables in F# for .NET and Fable.
-* [FIO](https://github.com/iyyel/fio) ⭐ 101 | 🐛 4 | 🌐 F# | 📅 2026-09-15 - A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming.
+* [FIO](https://github.com/iyyel/fio) ⭐ 101 | 🐛 2 | 🌐 F# | 📅 2026-09-17 - A type-safe, highly concurrent and asynchronous library for F# based on pure functional programming.
 * [FSharpx.Async](https://github.com/fsprojects/FSharpx.Async) ⭐ 96 | 🐛 20 | 🌐 F# | 📅 2024-01-12 - Collection of asynchronous programming utilities for F#.
 
 ## Configuration
@@ -132,7 +132,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 ## Data Science
 
 * [Math.NET Numerics](https://github.com/mathnet/mathnet-numerics) ⭐ 3,772 | 🐛 334 | 🌐 C# | 📅 2025-03-03 - Methods and algorithms for numerical computations in science, engineering and every day use. F# specific bindings available.
-* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,002 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies.
+* [m2cgen](https://github.com/BayesWitnesses/m2cgen) ⭐ 3,003 | 🐛 62 | 🌐 Python | 📅 2024-08-03 - A CLI tool to transpile trained classic ML models into a native F# code with zero dependencies.
 * [Deedle](https://github.com/BlueMountainCapital/Deedle) ⭐ 1,005 | 🐛 9 | 🌐 F# | 📅 2026-09-14 - Exploratory data library for .NET.
 * [DiffSharp](https://github.com/DiffSharp/DiffSharp) ⭐ 615 | 🐛 37 | 🌐 F# | 📅 2024-04-15 - Functional automatic differentiation (AD) library.
 * [IfSharp](https://github.com/fsprojects/IfSharp) ⭐ 442 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2022-03-17 - F# for Jupyter Notebooks.
@@ -152,7 +152,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Editor Plugins
 
-* [Fantomas](https://github.com/fsprojects/fantomas) ⭐ 835 | 🐛 78 | 🌐 F# | 📅 2026-09-16 - F# code formatter.
+* [Fantomas](https://github.com/fsprojects/fantomas) ⭐ 835 | 🐛 79 | 🌐 F# | 📅 2026-09-17 - F# code formatter.
 * [VimSpeak](https://github.com/AshleyF/VimSpeak) ⭐ 416 | 🐛 4 | 🌐 F# | 📅 2020-09-09 - A tool to control Vim with your voice using speech recognition.
 * [FSharpLint](https://github.com/fsprojects/FSharpLint) ⭐ 327 | 🐛 97 | 🌐 F# | 📅 2026-09-02 - F# code linter.
 * [Emacs F# mode](https://github.com/fsharp/emacs-fsharp-mode) ⭐ 215 | 🐛 43 | 🌐 Emacs Lisp | 📅 2026-04-02 - F# support in Emacs (including Intellisense and Interactive mode).
@@ -170,15 +170,15 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 * [FSharpPlus](https://github.com/gmpl/FSharpPlus) ⭐ 941 | 🐛 67 | 🌐 F# | 📅 2026-08-12 - Extensions for F#.
 * [FSharpx.Extras](https://github.com/fsprojects/FSharpx.Extras) ⭐ 697 | 🐛 10 | 🌐 F# | 📅 2025-12-20 - A collection of libraries and tools for use with F#.
-* [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) ⭐ 552 | 🐛 17 | 🌐 F# | 📅 2026-09-16 - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
+* [FsToolkit.ErrorHandling](https://github.com/demystifyfp/FsToolkit.ErrorHandling) ⭐ 552 | 🐛 16 | 🌐 F# | 📅 2026-09-16 - Clear, simple and powerful error handling with railway-oriented programming. Inspired by Chessie.
 * [FSharpLu](https://github.com/Microsoft/fsharplu) ⭐ 371 | 🐛 10 | 🌐 F# | 📅 2026-08-24 - Lightweight utilities for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.
-* [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) ⭐ 339 | 🐛 16 | 🌐 F# | 📅 2026-02-28 - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql) ⭐ 3,729 | 🐛 228 | 🌐 C# | 📅 2026-09-15, the PostgreSQL database driver.
+* [Npgsql.FSharp](https://github.com/Zaid-Ajaj/Npgsql.FSharp) ⭐ 340 | 🐛 16 | 🌐 F# | 📅 2026-02-28 - Thin F# wrapper around [Npgsql](https://github.com/npgsql/npgsql) ⭐ 3,730 | 🐛 228 | 🌐 C# | 📅 2026-09-15, the PostgreSQL database driver.
 * [TypeShape](https://github.com/eiriktsarpalis/TypeShape) ⭐ 323 | 🐛 0 | 🌐 F# | 📅 2025-02-07 - Small, extensible F# library for practical generic programming.
 * [SqlHydra](https://github.com/JordanMarr/SqlHydra) ⭐ 262 | 🐛 12 | 🌐 F# | 📅 2026-09-08 - Suite of NuGet packages for working with databases in F# including query expressions and code generation tools (for generating strongly typed F# DTO record types based on your database tables). Supports MySQL, PostgreSQL, Oracle, SQL Server, and SQLite.
 * [Fli](https://github.com/CaptnCodr/Fli) ⭐ 220 | 🐛 0 | 🌐 F# | 📅 2026-06-12 - Computational expression to run system processes and manage their output.
 * [Donald](https://github.com/pimbrouwers/Donald) ⭐ 191 | 🐛 2 | 🌐 F# | 📅 2024-12-02 - A simple F# interface for ADO.NET.
 * [Chessie](https://github.com/fsprojects/Chessie) ⭐ 185 | 🐛 15 | 🌐 F# | 📅 2018-08-26 - Railway-oriented programming.
-* [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) ⭐ 185 | 🐛 8 | 🌐 F# | 📅 2022-12-08 - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB) ⭐ 9,466 | 🐛 194 | 🌐 C# | 📅 2026-09-17, an embedded single file database for .NET.
+* [LiteDB.FSharp](https://github.com/Zaid-Ajaj/LiteDB.FSharp) ⭐ 185 | 🐛 8 | 🌐 F# | 📅 2022-12-08 - F# Support for [LiteDB](https://github.com/mbdavid/LiteDB) ⭐ 9,468 | 🐛 204 | 🌐 C# | 📅 2026-09-18, an embedded single file database for .NET.
 * [Aether](https://github.com/xyncro/aether) ⭐ 182 | 🐛 12 | 🌐 F# | 📅 2021-10-12 - Optics library for F#, similar to the Haskell Data.Lens package.
 * [ExtCore](https://github.com/jack-pappas/ExtCore) ⭐ 179 | 🐛 19 | 🌐 F# | 📅 2021-11-07 - Extended core library for F#.
 * [Validus](https://github.com/pimbrouwers/Validus) ⭐ 162 | 🐛 2 | 🌐 F# | 📅 2024-05-16 - A composable validation library for F#, with built-in validators for most primitive types and easily extended through custom validators.
@@ -191,7 +191,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Game Development
 
-* [Nu Game Engine](https://github.com/bryanedds/Nu) ⭐ 1,364 | 🐛 200 | 🌐 F# | 📅 2026-09-16 - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics.
+* [Nu Game Engine](https://github.com/bryanedds/Nu) ⭐ 1,364 | 🐛 201 | 🌐 F# | 📅 2026-09-17 - Cross-platform F# 2D game engine built in the functional style. Uses SDL2 and Farseer Physics.
 * [Garnet](https://github.com/bcarruthers/garnet) ⚠️ Archived - Lightweight game composition library for F# with entity-component-system (ECS) and actor-like messaging features.
 * [FsUnity](https://github.com/FsUnity) - F# libraries, tools, and plugins for the Unity game engine.
 * [Godot](https://www.lkokemohr.de/fsharp_godot.html) - Tutorial how to use F# with Godot.
@@ -200,7 +200,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 <!--lint disable double-link -->
 
-* [Fabulous](https://github.com/fabulous-dev/Fabulous) ⭐ 1,278 | 🐛 18 | 🌐 F# | 📅 2026-09-14 - F# functional app development, using declarative dynamic UI.
+* [Fabulous](https://github.com/fabulous-dev/Fabulous) ⭐ 1,279 | 🐛 16 | 🌐 F# | 📅 2026-09-17 - F# functional app development, using declarative dynamic UI.
 * [Avalonia.FuncUI](https://github.com/fsprojects/Avalonia.FuncUI) ⭐ 1,261 | 🐛 17 | 🌐 F# | 📅 2026-08-23 - Develop cross-platform MVU GUI Applications using F# and Avalonia.
 * [Elmish.WPF](https://github.com/elmish/Elmish.WPF) ⭐ 463 | 🐛 61 | 🌐 F# | 📅 2024-10-01 - Elmish (or MVU) approach to WPF programming.
 * [Epoxy](https://github.com/kekyo/epoxy) ⭐ 265 | 🐛 5 | 🌐 C# | 📅 2024-12-10 - An independent flexible XAML MVVM library for .NET.
@@ -263,7 +263,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 * [FsUnit](https://github.com/fsprojects/FsUnit) ⭐ 445 | 🐛 6 | 🌐 F# | 📅 2025-07-11 - Makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.
 * [unquote](https://github.com/swensensoftware/unquote) ⭐ 298 | 🐛 8 | 🌐 F# | 📅 2024-12-01 - Write F# unit test assertions as quoted expressions.
 * [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) ⭐ 284 | 🐛 34 | 🌐 F# | 📅 2026-06-29 - Property-based testing system for F#.
-* [Faqt](https://github.com/cmeeren/Faqt) ⭐ 77 | 🐛 3 | 🌐 F# | 📅 2026-09-06 - Fantastic fluent assertions for your F# tests and domain code.
+* [Faqt](https://github.com/cmeeren/Faqt) ⭐ 77 | 🐛 3 | 🌐 F# | 📅 2026-09-17 - Fantastic fluent assertions for your F# tests and domain code.
 * [Persimmon](https://github.com/persimmon-projects/Persimmon) ⭐ 41 | 🐛 6 | 🌐 F# | 📅 2022-03-05 - Unit test framework for F# using computation expressions.
 * [xUnit.net](https://xunit.net/) - Free, open source, community-focused unit testing tool for the .NET Framework.
 
@@ -271,7 +271,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ## Type Providers
 
-* [FSharp.Data](https://github.com/fsharp/FSharp.Data) ⭐ 873 | 🐛 7 | 🌐 F# | 📅 2026-09-14 - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data.
+* [FSharp.Data](https://github.com/fsharp/FSharp.Data) ⭐ 874 | 🐛 7 | 🌐 F# | 📅 2026-09-14 - Data science library that contains type providers for CSV, HTML, JSON, XML, and WorldBank data.
 * [Rezoom.SQL](https://github.com/rspeele/Rezoom.SQL) ⭐ 680 | 🐛 18 | 🌐 F# | 📅 2026-06-24 - Statically typed SQL for F#.
 * [SQLProvider](https://github.com/fsprojects/SQLProvider) ⭐ 627 | 🐛 58 | 🌐 F# | 📅 2026-07-29 - General F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.
 * [SwaggerProvider](https://github.com/fsprojects/SwaggerProvider) ⭐ 278 | 🐛 5 | 🌐 F# | 📅 2026-09-14 - Generative type provider for Swagger.
@@ -297,7 +297,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Creating Type Providers
 
-* [FSharp.TypeProviders.StarterPack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) ⭐ 304 | 🐛 7 | 🌐 F# | 📅 2026-09-14 - The ProvidedTypes SDK for creating F# type providers.
+* [FSharp.TypeProviders.StarterPack](https://github.com/fsprojects/FSharp.TypeProviders.StarterPack) ⭐ 304 | 🐛 10 | 🌐 F# | 📅 2026-09-17 - The ProvidedTypes SDK for creating F# type providers.
 
 ## Visualization
 
@@ -328,7 +328,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 <!--lint disable awesome-list-item-->
 
-* [Fable-elmish](https://github.com/fable-compiler/fable-elmish) ⭐ 905 | 🐛 8 | 🌐 F# | 📅 2026-09-05 - `dotnet new -i Fable.Template.Elmish.React::*`
+* [Fable-elmish](https://github.com/fable-compiler/fable-elmish) ⭐ 906 | 🐛 8 | 🌐 F# | 📅 2026-09-05 - `dotnet new -i Fable.Template.Elmish.React::*`
 * [SAFE Stack Template](https://github.com/SAFE-Stack/SAFE-template) ⭐ 288 | 🐛 15 | 🌐 F# | 📅 2025-11-15 - `dotnet new -i SAFE.Template::*`
 * [MiniScaffold](https://github.com/TheAngryByrd/MiniScaffold) ⭐ 270 | 🐛 15 | 🌐 F# | 📅 2026-08-15 - F# Template for creating and publishing libraries targeting .NET Full (net45) and Core (netstandard1.6), `dotnet new -i MiniScaffold::*`
 * [Giraffe Template](https://github.com/giraffe-fsharp/giraffe-template) ⭐ 39 | 🐛 5 | 🌐 F# | 📅 2024-08-19 - `dotnet new -i "giraffe-template::*"`
@@ -377,7 +377,7 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ### Other Lists
 
-* [Awesome .NET!](https://github.com/quozd/awesome-dotnet) ⭐ 21,609 | 🐛 155 | 📅 2026-03-26 - Collection of awesome .NET libraries, tools, frameworks and software.
+* [Awesome .NET!](https://github.com/quozd/awesome-dotnet) ⭐ 21,612 | 🐛 156 | 📅 2026-03-26 - Collection of awesome .NET libraries, tools, frameworks and software.
 * [Companies using F#](https://github.com/fsprojects/fsharp-companies) ⭐ 411 | 🐛 25 | 📅 2026-04-18 - Community curated list of companies that use F# (maybe useful if you're looking for a job?)
 * [F# Community Projects](http://fsharp.org/community/projects/) - Everything produced by the F# community.
 * [Fable Resources](https://fable.io/resources.html) - A curated list of useful Fable-related tutorials, libraries and software.
@@ -410,4 +410,4 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
