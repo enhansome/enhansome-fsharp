@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "F# main repository",
-          "description": null,
+          "description": "dotnet/fsharp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "F# RFCs",
-          "description": null,
+          "description": "fsharp/fslang-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "F# suggestions",
-          "description": null,
+          "description": "fsharp/fslang-suggestions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -89,7 +89,7 @@
         {
           "node_type": "item",
           "title": "ASP.NET Core Blazor",
-          "description": null,
+          "description": "dotnet/aspnetcore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -102,7 +102,7 @@
             "open_issues": 4206,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38465,
+            "stars": 38464,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -115,7 +115,7 @@
         {
           "node_type": "item",
           "title": "Bolero",
-          "description": null,
+          "description": "fsbolero/Bolero",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "ASP.NET Core",
-          "description": null,
+          "description": "dotnet/aspnetcore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
             "open_issues": 4206,
             "owner": "dotnet",
             "repo": "aspnetcore",
-            "stars": 38465,
+            "stars": 38464,
             "topics": [
               "aspnetcore",
               "dotnet",
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "Avalonia",
-          "description": null,
+          "description": "AvaloniaUI/Avalonia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -211,10 +211,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-01T14:18:30Z",
-            "open_issues": 1944,
+            "open_issues": 1945,
             "owner": "AvaloniaUI",
             "repo": "Avalonia",
-            "stars": 31616,
+            "stars": 31617,
             "topics": [
               "android",
               "app-framework",
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "Avalonia.FuncUI",
-          "description": null,
+          "description": "fsprojects/Avalonia.FuncUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -282,8 +282,8 @@
             "id": 262395224,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:05:19Z",
-            "open_issues": 4105,
+            "last_commit": "2026-10-03T04:17:43Z",
+            "open_issues": 4106,
             "owner": "dotnet",
             "repo": "maui",
             "stars": 23321,
@@ -308,7 +308,7 @@
         {
           "node_type": "item",
           "title": "Fabulous",
-          "description": null,
+          "description": "fabulous-dev/Fabulous",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,7 +317,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:22:01Z",
+            "last_commit": "2026-10-03T03:58:05Z",
             "open_issues": 18,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -343,8 +343,8 @@
             "id": 65080725,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:03:16Z",
-            "open_issues": 66,
+            "last_commit": "2026-10-03T03:28:50Z",
+            "open_issues": 67,
             "owner": "microsoft",
             "repo": "testfx",
             "stars": 1046,
@@ -372,7 +372,7 @@
         {
           "node_type": "item",
           "title": "FsUnit",
-          "description": null,
+          "description": "fsprojects/FsUnit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,7 +401,7 @@
         {
           "node_type": "item",
           "title": "System.Text.Json",
-          "description": null,
+          "description": "dotnet/runtime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,8 +410,8 @@
             "id": 210716005,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:02:58Z",
-            "open_issues": 8066,
+            "last_commit": "2026-10-03T04:29:11Z",
+            "open_issues": 8065,
             "owner": "dotnet",
             "repo": "runtime",
             "stars": 18303,
@@ -426,7 +426,7 @@
         {
           "node_type": "item",
           "title": "FSharp.SystemTextJson",
-          "description": null,
+          "description": "Tarmil/FSharp.SystemTextJson",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -447,7 +447,7 @@
         {
           "node_type": "item",
           "title": "WPF",
-          "description": null,
+          "description": "dotnet/wpf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "Elmish.WPF",
-          "description": null,
+          "description": "elmish/Elmish.WPF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +515,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-02T23:29:29Z",
-            "open_issues": 620,
+            "open_issues": 622,
             "owner": "dotnet",
             "repo": "orleans",
             "stars": 10888,
@@ -545,8 +545,8 @@
             "id": 15509440,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:19:54Z",
-            "open_issues": 454,
+            "last_commit": "2026-10-03T03:11:59Z",
+            "open_issues": 453,
             "owner": "akkadotnet",
             "repo": "akka.net",
             "stars": 5086,
@@ -1121,8 +1121,8 @@
             "id": 465911780,
             "language": "F#",
             "license": "MIT",
-            "last_commit": "2026-10-03T02:22:02Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-03T03:09:46Z",
+            "open_issues": 4,
             "owner": "TheAngryByrd",
             "repo": "IcedTasks",
             "stars": 150,
@@ -2396,7 +2396,7 @@
             "id": 11965691,
             "language": "F#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T01:18:52Z",
+            "last_commit": "2026-10-03T03:02:31Z",
             "open_issues": 204,
             "owner": "bryanedds",
             "repo": "Nu",
@@ -2444,7 +2444,7 @@
             "id": 120334619,
             "language": "F#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T16:22:01Z",
+            "last_commit": "2026-10-03T03:58:05Z",
             "open_issues": 18,
             "owner": "fabulous-dev",
             "repo": "Fabulous",
@@ -4306,7 +4306,7 @@
         {
           "node_type": "item",
           "title": "Fable-elmish",
-          "description": null,
+          "description": "elmish/elmish",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4332,7 +4332,7 @@
         {
           "node_type": "item",
           "title": "SAFE Stack Template",
-          "description": null,
+          "description": "SAFE-Stack/SAFE-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4381,7 +4381,7 @@
         {
           "node_type": "item",
           "title": "Giraffe Template",
-          "description": null,
+          "description": "giraffe-fsharp/giraffe-template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4410,7 +4410,7 @@
         {
           "node_type": "item",
           "title": "Expecto Template",
-          "description": null,
+          "description": "MNie/Expecto.Template",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4437,7 +4437,7 @@
         {
           "node_type": "item",
           "title": "ASP.NET Core WebAPI F# Template",
-          "description": null,
+          "description": "MNie/FSharpNetCoreWebApiTemplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4462,7 +4462,7 @@
         {
           "node_type": "item",
           "title": "NancyFx Template",
-          "description": null,
+          "description": "MNie/NancyFxCore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4636,7 +4636,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:23:23.739Z",
+    "last_updated": "2026-10-03T04:46:00.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome F# frameworks, libraries, software and resources.",
